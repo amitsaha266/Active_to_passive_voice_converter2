@@ -200,7 +200,7 @@ public class MainActivity extends AppCompatActivity {
         lt5=findViewById(R.id.textView28);
         lt6=findViewById(R.id.textView29);
 
-        adView = new AdView(this, "590021021508656_590029148174510", AdSize.BANNER_HEIGHT_50);
+        adView = new AdView(this, "350189448938955_363782384246328", AdSize.BANNER_HEIGHT_50);
         LinearLayout adContainer = (LinearLayout) findViewById(R.id.banner_container6);
 
         // Add the ad view to your activity layout
@@ -1354,11 +1354,10 @@ public class MainActivity extends AppCompatActivity {
         Intent intent=new Intent(this,MainActivity.class);
         startActivity(intent);
 
-
     }
     public void showads(){
         Toast.makeText(this, "Loading", Toast.LENGTH_SHORT).show();
-        interstitialAd = new InterstitialAd(this, "590021021508656_590026458174779");
+        interstitialAd = new InterstitialAd(this, "350189448938955_729951370962759");
         InterstitialAdListener interstitialAdListener = new InterstitialAdListener() {
             @Override
             public void onInterstitialDisplayed(Ad ad) {
