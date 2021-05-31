@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="narration_button">
+        <item>Single Rules Narration</item>
+        <item>Multiple Rules Narration</item>
+        <item>Basic Narration</item>
+        <item>All Rules</item>
+    </string-array>
+    <string-array name="single">
+        <item>Advise (In English)</item>
+        <item>Bade (In English)</item>
+        <item>Dont (In English)</item>
+        <item>Exclamatory (In English)</item>
+        <item>Exclamatory2 (In English)</item>
+        <item>Imperative (In English)</item>
+        <item>Interrogative (In English)</item>
+        <item>Let1 (In English)</item>
+        <item>Let2 (In English)</item>
+        <item>Let3 (In English)</item>
+        <item>May (In English)</item>
+        <item>Please (In English)</item>
+        <item>Simple (In English)</item>
+        <item>Universal Truth (In English)</item>
+        <item>Wh Word  (In English)</item>
+        <item>Advise (In Bengali)</item>
+        <item>Bade (In Bengali)</item>
+        <item>Dont (In Bengali)</item>
+        <item>Exclamatory (In Bengali)</item>
+        <item>Exclamatory2 (In Bengali)</item>
+        <item>Imperative (In Bengali)</item>
+        <item>Interrogative (In Bengali)</item>
+        <item>Let1 (In Bengali)</item>
+        <item>Let2 (In Bengali)</item>
+        <item>Let3 (In Bengali)</item>
+        <item>May (In Bengali)</item>
+        <item>Please (In Bengali)</item>
+        <item>Simple (In Bengali)</item>
+        <item>Universal Truth (In Bengali)</item>
+        <item>Wh Word  (In Bengali)</item>
+        <item>Advise (In Hindi)</item>
+        <item>Bade (In Hindi)</item>
+        <item>Dont (In Hindi)</item>
+        <item>Exclamatory (In Hindi)</item>
+        <item>Exclamatory2 (In Hindi)</item>
+        <item>Imperative (In Hindi)</item>
+        <item>Interrogative (In Hindi)</item>
+        <item>Let1 (In Hindi)</item>
+        <item>Let2 (In Hindi)</item>
+        <item>Let3 (In Hindi)</item>
+        <item>May (In Hindi)</item>
+        <item>Please (In Hindi)</item>
+        <item>Simple (In Hindi)</item>
+        <item>Universal Truth (In Hindi)</item>
+        <item>Wh Word  (In Hindi)</item>
+
+
+    </string-array>
+    <string-array name="multiple">
+
+        <item>Assertive (Direct to Indirect)</item>
+        <item>Imperative (Direct to Indirect)</item>
+        <item>Interrogative (Direct to Indirect)</item>
+        <item>Exclamatory (Direct to Indirect)</item>
+        <item>W.H Sentense (Direct to Indirect)</item>
+        <item>Let (Direct to Indirect)</item>
+        <item>May (Direct to Indirect)</item>
+        <item>Assertive (Indirect to Direct)</item>
+        <item>Imperative (Indirect to Direct)</item>
+        <item>Interrogative (Indirect to Direct)</item>
+        <item>Exclamatory (Indirect to Direct)</item>
+        <item>W.H Sentense (Indirect to Direct)</item>
+        <item>Let (Indirect to Direct)</item>
+        <item>May (Indirect to Direct)</item>
+
+    </string-array>
+    <string-array name="basic">
+        <item>Assertive (Direct To Indirect)</item>
+        <item>Imperative (Direct To Indirect)</item>
+        <item>Interrogative (Direct To Indirect)</item>
+        <item>Exclamatory (Direct To Indirect)</item>
+        <item>W.H Question (Direct To Indirect)</item>
+        <item>Let (Direct To Indirect)</item>
+        <item>May (Direct To Indirect)</item>
+        <item>Assertive (Indirect To Direct)</item>
+        <item>Imperative (Indirect To Direct)</item>
+        <item>Interrogative (Indirect To Direct)</item>
+        <item>Exclamatory (Indirect To Direct)</item>
+        <item>W.H Question (Indirect To Direct)</item>
+        <item>Let (Indirect To Direct)</item>
+        <item>May (Indirect To Direct)</item>
+    </string-array>
+    <string-array name="all_rules">
+        <item>What is Narration</item>
+        <item>Use of Pronoun</item>
+        <item>Use of Tense</item>
+        <item>Time and Place</item>
+        <item>Assertive Sentence</item>
+        <item>Interrogative Sentence</item>
+        <item>Imperative Sentence</item>
+    </string-array>
+    <string-array name="voice">
+        <item>Assertive (Active to Passive)</item>
+        <item>Interrogative (Active to Passive)</item>
+        <item>Negative (Active to Passive)</item>
+        <item>Assertive (Passive to Active)</item>
+        <item>Interrogative (Passive to Active)</item>
+        <item>Negative (Passive to Active)</item>
+    </string-array>
+    <string-array name="voice2">
+        <item>Voice Animation</item>
+        <item>Voice Definition</item>
+        <item>Voice Advance</item>
+        <item>Voice Basic</item>
+        <item>Voice Rules</item>
+    </string-array>
+    <string-array name="voice3">
+        <item>Null</item>
+    </string-array>
+    <string-array name="tense_list">
+        <item>Present Indefinite</item>
+        <item>Past Indefinite</item>
+        <item>Future Indefinite</item>
+        <item>Past Perfect</item>
+        <item>Present Perfect Continuous</item>
+        <item>Present Continuous</item>
+        <item>Past Continuous</item>
+        <item>Present Perfect</item>
+    </string-array>
+    <string-array name="tense_button">
+        <item>Correct Tense</item>
+        <item>What Is Tense</item>
+    </string-array>
+    <string-array name="voice_list">
+        <item>Verb 1st Form➡️is/am/are+ Verb 3rd Form </item>
+        <item>Verb 2nd Form➡️was/were + Verb 3rd Form</item>
+        <item>is/am/are + Verb + ing➡️is/am/are + being + Verb 3rd Form</item>
+        <item>was/were + Verb + ing➡️was/were + being + Verb 3rd Form</item>
+        <item>shall/will + Verb 1st Form➡️shall/will + be + Verb 3rd Form</item>
+        <item>have/has/had + 3rd From➡️have/has/had + been + Verb 3rd Form</item>
+
+
+    </string-array>
+</resources>

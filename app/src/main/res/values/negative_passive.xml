@@ -1,0 +1,904 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string-array name="negative_question_passive">
+
+        <item>A book is not read everyday by him.</item>
+        <item>A house is not being built by them.</item>
+        <item>A letter is not being written by him.</item>
+        <item>A letter Is not being written by me.</item>
+        <item>A letter was not written to the Headmaster by me.</item>
+        <item>A letter was not written to God by Leneho.</item>
+        <item>A letter was not written to the headmaster by my father.</item>
+        <item>A letter was not given me by my friend.</item>
+        <item>A letter was not being written by the girl.</item>
+        <item>A new car was not being drove by him.</item>
+        <item>A new car was not bought last month by Mr Saikia.</item>
+        <item>A pen was not bought by him.</item>
+        <item>A pen was not given to me by him.</item>
+        <item>A question was not asked by him.</item>
+        <item>A remarkable discovery was not made by him.</item>
+        <item>A ticket will not be given to you by the manager.</item>
+        <item>Accident are not the caused by carelessness.</item>
+        <item>All the letters has not been written by him.</item>
+        <item>An application is not going to be written by me.</item>
+        <item>An S.M.S was not send to me by my friend.</item>
+        <item>Books are not bought every month by our teacher.</item>
+        <item>Cricket is not being played today by the boys.</item>
+        <item>Cricket is not being played in the field by the boys.</item>
+        <item>English is not learnt by Mohan.</item>
+        <item>Good news is not expected by her.</item>
+        <item>He was not laughed at by all his friends.</item>
+        <item>He has not been appointed captain by the teacher.</item>
+        <item>He was not phoned yesterday by me.</item>
+        <item>He is not called Kalidas by people.</item>
+        <item>He was not elected secretary by the students.</item>
+        <item>He was not elected president by them.</item>
+        <item>He was not elected captain of our class by us.</item>
+        <item>He was not made captain by us.</item>
+        <item>He was not made captain of our team by us.</item>
+        <item>He was not made chairman of the committee by us.</item>
+        <item>His clothes have not been stolen by thief.</item>
+        <item>It must not be done by some one.</item>
+        <item>Letter are not delivered every day by the postman.</item>
+        <item>Many questions were not asked by them.</item>
+        <item>I am not being taught English by Mr. Das.</item>
+        <item>I shall not be taught English next month by Mr. john.</item>
+        <item>I was not shocked at the news.</item>
+        <item>I was not invited to the party by them.</item>
+        <item>Our copies are not being corrected by the teacher.</item>
+        <item>Our country should not be loved by us.</item>
+        <item>Our duties must not be done by us.</item>
+        <item>Our elders should not be respected by us.</item>
+        <item>President is not the selected by the members.</item>
+        <item>Rice is not being cooked by mother.</item>
+        <item>Rice is not being cooked now by my aunt.</item>
+        <item>Sweets are not liked by Children.</item>
+        <item>That book was not written by me.</item>
+        <item>The accident was not caused by the carelessness of the driver.</item>
+        <item>The answer must not be written in ink by you.</item>
+        <item>The bird was not killed by the girl.</item>
+        <item>The boy was not asked many questions by them.</item>
+        <item>The child was not he made cry by us.</item>
+        <item>The coin was not he given to her by me.</item>
+        <item>Culpits were not the arrested by the police.</item>
+        <item>The form must not be filled in by me.</item>
+        <item>The lesson will not be learnt by me .</item>
+        <item>The letter has not been posted by me.</item>
+        <item>The letters are not being delivered by the postman.</item>
+        <item>The post man were not the letters being delevered by..</item>
+        <item>The matter was not discussed thoroughly by us.</item>
+        <item>The meeting the not was not presided over by our principal.</item>
+        <item>The patient is not being examined by the doctor.</item>
+        <item>The plants are not being watered by the gardener.</item>
+        <item>The poem has not been written by him.</item>
+        <item>The poor are not being helped by him.</item>
+        <item>The programme was not organised by the students.</item>
+        <item>Ranghar was not built by pramatta singha.</item>
+        <item>The stage was not decorated by the students.</item>
+        <item>The tiger was not killed by the hunter.</item>
+        <item>The work must not be finished by you.</item>
+        <item>This can not be done by me.</item>
+        <item>This letter was not written by my friend.</item>
+        <item>This question should not be raised now by you.</item>
+        <item>This school was not established in 1960 by people.</item>
+        <item>Two sarees are not being bought by her.</item>
+        <item>We have not been invited by Geeta.</item>
+        <item>We are not taught English by him.</item>
+        <item>You will not be helped by Gouri sen.</item>
+        <item>You may not be insulted by you.</item>
+        <item>Your parents should not be obeyed by you.</item>
+
+
+    </string-array>
+
+    <string-array name="negative_subject_passive">
+        <item>A book</item>
+        <item>A house</item>
+        <item>A letter</item>
+        <item>A letter</item>
+        <item>A letter</item>
+        <item>A letter</item>
+        <item>A letter</item>
+        <item>A letter</item>
+        <item>A letter</item>
+        <item>A new car</item>
+        <item>A new car</item>
+        <item>A pen</item>
+        <item>A pen</item>
+        <item>A question</item>
+        <item>A remarkable discovery</item>
+        <item>A ticket</item>
+        <item>Accident</item>
+        <item>All the letters</item>
+        <item>An application</item>
+        <item>An S.M.S</item>
+        <item>Books</item>
+        <item>Cricket</item>
+        <item>Cricket</item>
+        <item>English</item>
+        <item>Good news</item>
+        <item>He</item>
+        <item>He</item>
+        <item>He</item>
+        <item>He</item>
+        <item>He</item>
+        <item>He</item>
+        <item>He</item>
+        <item>He</item>
+        <item>He</item>
+        <item>He</item>
+        <item>His clothes</item>
+        <item>It</item>
+        <item>Letter</item>
+        <item>Many questions</item>
+        <item>I</item>
+        <item>I</item>
+        <item>I</item>
+        <item>I</item>
+        <item>Our copies</item>
+        <item>Our country</item>
+        <item>Our duties</item>
+        <item>Our elders</item>
+        <item>President</item>
+        <item>Rice</item>
+        <item>Rice</item>
+        <item>Sweets</item>
+        <item>That book</item>
+        <item>The accident</item>
+        <item>The answer</item>
+        <item>The bird</item>
+        <item>The boy</item>
+        <item>The child</item>
+        <item>The coin</item>
+        <item>Culpits</item>
+        <item>The form</item>
+        <item>The lesson</item>
+        <item>The letter</item>
+        <item>The letters</item>
+        <item>The post man</item>
+        <item>The matter</item>
+        <item>The meeting</item>
+        <item>The patient</item>
+        <item>The plants</item>
+        <item>The poem</item>
+        <item>The poor</item>
+        <item>The programme</item>
+        <item>Ranghar</item>
+        <item>The stage</item>
+        <item>The tiger</item>
+        <item>The work</item>
+        <item>This</item>
+        <item>This letter</item>
+        <item>This question</item>
+        <item>This school</item>
+        <item>Two sarees</item>
+        <item>We</item>
+        <item>We</item>
+        <item>You</item>
+        <item>You</item>
+        <item>Your parents</item>
+
+
+    </string-array>
+    <string-array name="negative_helpingVerb_passive">
+        <item>Is not</item>
+        <item>Is not</item>
+        <item>Is not</item>
+        <item>Is not</item>
+        <item>Was not</item>
+        <item>Was not</item>
+        <item>Was not</item>
+        <item>Was not</item>
+        <item>Was not</item>
+        <item>Was not</item>
+        <item>Was not</item>
+        <item>Was not</item>
+        <item>Was not</item>
+        <item>Was not</item>
+        <item>was not</item>
+        <item>Will not</item>
+        <item>Are not</item>
+        <item>Have not</item>
+        <item>Is not</item>
+        <item>Was not</item>
+        <item>Are not</item>
+        <item>Is not</item>
+        <item>Is not</item>
+        <item>Is not</item>
+        <item>Is not</item>
+        <item>Was not</item>
+        <item>Has not</item>
+        <item>Was not</item>
+        <item>Is not</item>
+        <item>Was not</item>
+        <item>Was not</item>
+        <item>Was not</item>
+        <item>Was not</item>
+        <item>Was not</item>
+        <item>Was not</item>
+        <item>Have not</item>
+        <item>Must not</item>
+        <item>Are not</item>
+        <item>Were not</item>
+        <item>Am not</item>
+        <item>Shall not</item>
+        <item>Was not</item>
+        <item>Was not</item>
+        <item>Are not</item>
+        <item>Should not</item>
+        <item>Must not</item>
+        <item>Should not</item>
+        <item>Is not</item>
+        <item>Is not</item>
+        <item>Is not</item>
+        <item>Are not</item>
+        <item>Was not</item>
+        <item>Was not</item>
+        <item>Must not</item>
+        <item>Was not</item>
+        <item>Was not</item>
+        <item>Was not</item>
+        <item>Was not</item>
+        <item>Were not</item>
+        <item>Must not</item>
+        <item>Will not</item>
+        <item>Has not</item>
+        <item>Are not</item>
+        <item>Were not</item>
+        <item>Was not</item>
+        <item>Was not</item>
+        <item>Is not</item>
+        <item>Are not</item>
+        <item>Has not</item>
+        <item>Are not</item>
+        <item>Was not</item>
+        <item>Was not</item>
+        <item>Was not</item>
+        <item>Was not</item>
+        <item>Must not</item>
+        <item>Can not</item>
+        <item>Was not</item>
+        <item>Should not</item>
+        <item>Was not</item>
+        <item>Are not</item>
+        <item>Have not</item>
+        <item>Are not</item>
+        <item>Will not</item>
+        <item>May not</item>
+        <item>Should not</item>
+
+
+    </string-array>
+    <string-array name="negative_verb_passive">
+        <item>read</item>
+        <item>being buit</item>
+        <item>being written</item>
+        <item>being written</item>
+        <item>written</item>
+        <item>written</item>
+        <item>written</item>
+        <item>given</item>
+        <item>being written</item>
+        <item>being drove</item>
+        <item>bought</item>
+        <item>bought</item>
+        <item>given</item>
+        <item>asked</item>
+        <item>made</item>
+        <item>be given</item>
+        <item>caused</item>
+        <item>been written</item>
+        <item>going to be written</item>
+        <item>sent</item>
+        <item>bought</item>
+        <item>being played</item>
+        <item>being played</item>
+        <item>learnt</item>
+        <item>expected</item>
+        <item>laughed at</item>
+        <item>been appointed</item>
+        <item>phoned</item>
+        <item>called</item>
+        <item>elected</item>
+        <item>elected</item>
+        <item>elected</item>
+        <item>made</item>
+        <item>made</item>
+        <item>made</item>
+        <item>been stolen</item>
+        <item>be done</item>
+        <item>delevered</item>
+        <item>asked</item>
+        <item>being taught</item>
+        <item>be taught</item>
+        <item>shocked</item>
+        <item>invited</item>
+        <item>being corrected</item>
+        <item>be loved</item>
+        <item>be done</item>
+        <item>be respected</item>
+        <item>selected</item>
+        <item>being cooked</item>
+        <item>being cooked</item>
+        <item>liked</item>
+        <item>written</item>
+        <item>caused</item>
+        <item>be written</item>
+        <item>killed</item>
+        <item>asked</item>
+        <item>made</item>
+        <item>given</item>
+        <item>arrested</item>
+        <item>be filled</item>
+        <item>be learnt</item>
+        <item>been posted</item>
+        <item>being delevered</item>
+        <item>being delevered</item>
+        <item>discussed</item>
+        <item>presided over</item>
+        <item>being examined</item>
+        <item>being watered</item>
+        <item>been written</item>
+        <item>being helped</item>
+        <item>organised</item>
+        <item>built</item>
+        <item>decorated</item>
+        <item>killed</item>
+        <item>be finished</item>
+        <item>be done</item>
+        <item>written</item>
+        <item>be raised</item>
+        <item>established</item>
+        <item>being bought</item>
+        <item>been invited</item>
+        <item>taught</item>
+        <item>be helped</item>
+        <item>be insulted</item>
+        <item>be obeyed</item>
+
+
+    </string-array>
+
+    <string-array name="negative_otherPart_passive">
+        <item>Every day</item>
+        <item>No Other Part</item>
+        <item>No Other Part</item>
+        <item>No Other Part</item>
+        <item>To the Head master</item>
+        <item>To God</item>
+        <item>To the Head master</item>
+        <item>Me</item>
+        <item>No Other Part</item>
+        <item>No Other Part</item>
+        <item>Last month</item>
+        <item>No Other Part</item>
+        <item>No Other Part</item>
+        <item>No Other Part</item>
+        <item>No Other Part</item>
+        <item>you</item>
+        <item>No Other Part</item>
+        <item>No Other Part</item>
+        <item>To write</item>
+        <item>me</item>
+        <item>Every month</item>
+        <item>No Other Part</item>
+        <item>In the field</item>
+        <item>No Other Part</item>
+        <item>No Other Part</item>
+        <item>No Other Part</item>
+        <item>Captain</item>
+        <item>yesterday</item>
+        <item>No Other Part</item>
+        <item>Captain</item>
+        <item>President</item>
+        <item>Of our class</item>
+        <item>Captain</item>
+        <item>Captain of our team</item>
+        <item>Chairman of the committee</item>
+        <item>No Other Part</item>
+        <item>No Other Part</item>
+        <item>Every month</item>
+        <item>Many questions</item>
+        <item>English</item>
+        <item>English next year</item>
+        <item>No Other Part</item>
+        <item>To the party</item>
+        <item>No Other Part</item>
+        <item>No Need</item>
+        <item>No Other Part</item>
+        <item>No Need</item>
+        <item>No Other Part</item>
+        <item>No Other Part</item>
+        <item>Now</item>
+        <item>No Other Part</item>
+        <item>No Other Part</item>
+        <item>No Other Part</item>
+        <item>In ink</item>
+        <item>No Other Part</item>
+        <item>Many questions</item>
+        <item>Cry</item>
+        <item>her</item>
+        <item>No Other Part</item>
+        <item>No Need</item>
+        <item>No Other Part</item>
+        <item>No Other Part</item>
+        <item>No Other Part</item>
+        <item>No Other Part</item>
+        <item>Thoroughly</item>
+        <item>No Other Part</item>
+        <item>No Other Part</item>
+        <item>No Other Part</item>
+        <item>No Other Part</item>
+        <item>No Other Part</item>
+        <item>No Other Part</item>
+        <item>No Other Part</item>
+        <item>No Other Part</item>
+        <item>No Other Part</item>
+        <item>No Need</item>
+        <item>No Need</item>
+        <item>No Other Part</item>
+        <item>No Need</item>
+        <item>In 1960</item>
+        <item>No Other Part</item>
+        <item>No Other Part</item>
+        <item>English</item>
+        <item>No Other Part</item>
+        <item>No Need</item>
+        <item>Now</item>
+
+    </string-array>
+
+    <string-array name="negative_object_passive">
+        <item>By - Him</item>
+        <item>By - Them</item>
+        <item>By - Him</item>
+        <item>By - Me</item>
+        <item>By - Me</item>
+        <item>By - Lencho</item>
+        <item>By - My father</item>
+        <item>By - My friend</item>
+        <item>By - The girl</item>
+        <item>By - Him</item>
+        <item>By - Mr. Saikia</item>
+        <item>By - Him</item>
+        <item>By - Him</item>
+        <item>By - Him</item>
+        <item>By - Him</item>
+        <item>By - The manager</item>
+        <item>By - Carelessness</item>
+        <item>By - Him</item>
+        <item>By - Me</item>
+        <item>By - My friend</item>
+        <item>By - Our teacher</item>
+        <item>By - The boys</item>
+        <item>By - The boys</item>
+        <item>By - Mohan</item>
+        <item>By - Her</item>
+        <item>By - His conduct</item>
+        <item>By - the teacher</item>
+        <item>By - Me</item>
+        <item>By - People</item>
+        <item>By - The students</item>
+        <item>By - Them</item>
+        <item>By - Us</item>
+        <item>By - Us</item>
+        <item>By - Us</item>
+        <item>By - We</item>
+        <item>By - Thief</item>
+        <item>By - Some one</item>
+        <item>By - The post man</item>
+        <item>By - Them</item>
+        <item>By - Mr Das</item>
+        <item>By - Mr John</item>
+        <item>By - The news</item>
+        <item>By - Them</item>
+        <item>By - The teacher</item>
+        <item>By - Us</item>
+        <item>By - Us</item>
+        <item>By - Us</item>
+        <item>By - The members</item>
+        <item>By - Mother</item>
+        <item>By - My aunt</item>
+        <item>By - Children</item>
+        <item>By - Me</item>
+        <item>By - The carelesness of the driver</item>
+        <item>By - You</item>
+        <item>By - The girl</item>
+        <item>By - Them</item>
+        <item>By - Us</item>
+        <item>By - Me</item>
+        <item>By - The police</item>
+        <item>By - Me</item>
+        <item>By - Me</item>
+        <item>By - Me</item>
+        <item>By - The post man</item>
+        <item>By - The letter</item>
+        <item>By - Us</item>
+        <item>By - Our principle</item>
+        <item>By - The doctor</item>
+        <item>By - The gardener</item>
+        <item>By - Him</item>
+        <item>By - Him</item>
+        <item>By - The students</item>
+        <item>By - Pramatta Singha</item>
+        <item>By - The students</item>
+        <item>By - The hunter</item>
+        <item>By - You</item>
+        <item>By - Me</item>
+        <item>By - My friend</item>
+        <item>By - You</item>
+        <item>By - People</item>
+        <item>By - Her</item>
+        <item>By - Geeta</item>
+        <item>By - Him</item>
+        <item>By - Gouri Sen</item>
+        <item>By - You</item>
+        <item>By - You</item>
+
+
+    </string-array>
+    <string-array name="negative_serial_passive">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+        <item>31</item>
+        <item>32</item>
+        <item>33</item>
+        <item>34</item>
+        <item>35</item>
+        <item>36</item>
+        <item>37</item>
+        <item>38</item>
+        <item>39</item>
+        <item>40</item>
+        <item>41</item>
+        <item>42</item>
+        <item>43</item>
+        <item>44</item>
+        <item>45</item>
+        <item>46</item>
+        <item>47</item>
+        <item>48</item>
+        <item>49</item>
+        <item>50</item>
+        <item>51</item>
+        <item>52</item>
+        <item>53</item>
+        <item>54</item>
+        <item>55</item>
+        <item>56</item>
+        <item>57</item>
+        <item>58</item>
+        <item>59</item>
+        <item>60</item>
+        <item>61</item>
+        <item>62</item>
+        <item>63</item>
+        <item>64</item>
+        <item>65</item>
+        <item>66</item>
+        <item>67</item>
+        <item>68</item>
+        <item>69</item>
+        <item>70</item>
+        <item>71</item>
+        <item>72</item>
+        <item>73</item>
+        <item>74</item>
+        <item>75</item>
+        <item>76</item>
+        <item>77</item>
+        <item>78</item>
+        <item>79</item>
+        <item>80</item>
+        <item>81</item>
+        <item>82</item>
+        <item>83</item>
+        <item>84</item>
+        <item>85</item>
+
+
+    </string-array>
+
+    <string-array name="negative_structure_passive">
+
+        <item>Object + is/am/are + not + verb-3rd Form + other + By-Subject.</item>
+        <item>Object + is/am/are + not + being + verb 3rd form + other + By-Subject.</item>
+        <item>Object + is/am/are + not + being + verb 3rd form + other + By-Subject.</item>
+        <item>Object + is/am/are + not + being + verb 3rd form + other + By-Subject.</item>
+        <item>Object + was/were + not + verb-3rd Form + other + By-Subject.</item>
+        <item>Object + was/were + not + verb-3rd Form + other + By-Subject.</item>
+        <item>Object + was/were + not + verb-3rd Form + other + By-Subject.</item>
+        <item>Object + was/were + not + verb-3rd Form + other + By-Subject.</item>
+        <item>Object + was/were + not + being + verb 3rd form + other + By-Subject.</item>
+        <item>Object + was/were + not + being + verb 3rd form + other + By-Subject.</item>
+        <item>Object + was/were + not + verb-3rd Form + other + By-Subject.</item>
+        <item>Object + was/were + not + verb-3rd Form + other + By-Subject.</item>
+        <item>Object + was/were + not + verb-3rd Form + other + By-Subject.</item>
+        <item>Object + was/were + not + verb-3rd Form + other + By-Subject.</item>
+        <item>Object + was/were + not + verb-3rd Form + other + By-Subject.</item>
+        <item>Object + (shall/will)/can/may/must/should/ought to + not - be + Verb 3rd Form + Other + by - subject.</item>
+        <item>Object + is/am/are + not + verb-3rd Form + other + By-Subject.</item>
+        <item>Object + have/has/had + not + been + Verb 3rd Form+ other + By-Subject.</item>
+        <item>Object + is/am/are + not + being + verb 3rd form + other + By-Subject.</item>
+        <item>Object + was/were + not + verb-3rd Form + other + By-Subject.</item>
+        <item>Object + is/am/are + not + verb-3rd Form + other + By-Subject.</item>
+        <item>Object + is/am/are + not + being + verb 3rd form + other + By-Subject.</item>
+        <item>Object + is/am/are + not + being + verb 3rd form + other + By-Subject.</item>
+        <item>Object + is/am/are + not + verb-3rd Form + other + By-Subject.</item>
+        <item>Object + is/am/are + not + verb-3rd Form + other + By-Subject.</item>
+        <item>Object + was/were + not + verb-3rd Form + other + By-Subject.</item>
+        <item>Object + have/has/had + not + been + Verb 3rd Form+ other + By-Subject.</item>
+        <item>Object + was/were + not + verb-3rd Form + other + By-Subject.</item>
+        <item>Object + is/am/are + not + verb-3rd Form + other + By-Subject.</item>
+        <item>Object + was/were + not + verb-3rd Form + other + By-Subject.</item>
+        <item>Object + was/were + not + verb-3rd Form + other + By-Subject.</item>
+        <item>Object + was/were + not + verb-3rd Form + other + By-Subject.</item>
+        <item>Object + was/were + not + verb-3rd Form + other + By-Subject.</item>
+        <item>Object + was/were + not + verb-3rd Form + other + By-Subject.</item>
+        <item>Object + was/were + not + verb-3rd Form + other + By-Subject.</item>
+        <item>Object + have/has/had + not + been + Verb 3rd Form+ other + By-Subject.</item>
+        <item>Object + (shall/will)/can/may/must/should/ought to + not - be + Verb 3rd Form + Other + by - subject.</item>
+        <item>Object + was/were + not + verb-3rd Form + other + By-Subject.</item>
+        <item>Object + was/were + not + verb-3rd Form + other + By-Subject.</item>
+        <item>Object + is/am/are + not + being + verb 3rd form + other + By-Subject.</item>
+        <item>Object + (shall/will)/can/may/must/should/ought to + not - be + Verb 3rd Form + Other + by - subject.</item>
+        <item>Object + was/were + not + verb-3rd Form + other + By-Subject.</item>
+        <item>Object + was/were + not + verb-3rd Form + other + By-Subject.</item>
+        <item>Object + is/am/are + not + being + verb 3rd form + other + By-Subject.</item>
+        <item>Object + (shall/will)/can/may/must/should/ought to + not - be + Verb 3rd Form + Other + by - subject.</item>
+        <item>Object + (shall/will)/can/may/must/should/ought to + not - be + Verb 3rd Form + Other + by - subject.</item>
+        <item>Object + (shall/will)/can/may/must/should/ought to + not - be + Verb 3rd Form + Other + by - subject.</item>
+        <item>Object + is/am/are + not + verb-3rd Form + other + By-Subject.</item>
+        <item>Object + is/am/are + not + being + verb 3rd form + other + By-Subject.</item>
+        <item>Object + is/am/are + not + being + verb 3rd form + other + By-Subject.</item>
+        <item>Object + is/am/are + not + verb-3rd Form + other + By-Subject.</item>
+        <item>Object + was/were + not + verb-3rd Form + other + By-Subject.</item>
+        <item>Object + was/were + not + verb-3rd Form + other + By-Subject.</item>
+        <item>Object + (shall/will)/can/may/must/should/ought to + not - be + Verb 3rd Form + Other + by - subject.</item>
+        <item>Object + was/were + not + verb-3rd Form + other + By-Subject.</item>
+        <item>Object + was/were + not + verb-3rd Form + other + By-Subject.</item>
+        <item>Object + was/were + not + verb-3rd Form + other + By-Subject.</item>
+        <item>Object + was/were + not + verb-3rd Form + other + By-Subject.</item>
+        <item>Object + was/were + not + verb-3rd Form + other + By-Subject.</item>
+        <item>Object + (shall/will)/can/may/must/should/ought to + not - be + Verb 3rd Form + Other + by - subject.</item>
+        <item>Object + (shall/will)/can/may/must/should/ought to + not - be + Verb 3rd Form + Other + by - subject.</item>
+        <item>Object + have/has/had + not + been + Verb 3rd Form+ other + By-Subject.</item>
+        <item>Object + is/am/are + not + being + verb 3rd form + other + By-Subject.</item>
+        <item>Object + was/were + not + being + verb 3rd form + other + By-Subject.</item>
+        <item>Object + was/were + not + verb-3rd Form + other + By-Subject.</item>
+        <item>Object + was/were + not + verb-3rd Form + other + By-Subject.</item>
+        <item>Object + is/am/are + not + being + verb 3rd form + other + By-Subject.</item>
+        <item>Object + is/am/are + not + being + verb 3rd form + other + By-Subject.</item>
+        <item>Object + have/has/had + not + been + Verb 3rd Form+ other + By-Subject.</item>
+        <item>Object + is/am/are + not + being + verb 3rd form + other + By-Subject.</item>
+        <item>Object + was/were + not + verb-3rd Form + other + By-Subject.</item>
+        <item>Object + was/were + not + verb-3rd Form + other + By-Subject.</item>
+        <item>Object + was/were + not + verb-3rd Form + other + By-Subject.</item>
+        <item>Object + was/were + not + verb-3rd Form + other + By-Subject.</item>
+        <item>Object + (shall/will)/can/may/must/should/ought to + not - be + Verb 3rd Form + Other + by - subject.</item>
+        <item>Object + (shall/will)/can/may/must/should/ought to + not - be + Verb 3rd Form + Other + by - subject.</item>
+        <item>Object + was/were + not + verb-3rd Form + other + By-Subject.</item>
+        <item>Object + (shall/will)/can/may/must/should/ought to + not - be + Verb 3rd Form + Other + by - subject.</item>
+        <item>Object + was/were + not + verb-3rd Form + other + By-Subject.</item>
+        <item>Object + is/am/are + not + being + verb 3rd form + other + By-Subject.</item>
+        <item>Object + have/has/had + not + been + Verb 3rd Form+ other + By-Subject.</item>
+        <item>Object + is/am/are + not + verb-3rd Form + other + By-Subject.</item>
+        <item>Object + (shall/will)/can/may/must/should/ought to + not - be + Verb 3rd Form + Other + by - subject.</item>
+        <item>Object + (shall/will)/can/may/must/should/ought to + not - be + Verb 3rd Form + Other + by - subject.</item>
+        <item>Object + (shall/will)/can/may/must/should/ought to + not - be + Verb 3rd Form + Other + by - subject.</item>
+
+    </string-array>
+<string-array name="negative_use_of_helpingVerb">
+    <item>is</item>
+    <item>is</item>
+    <item>is</item>
+    <item>is</item>
+    <item>was</item>
+    <item>was</item>
+    <item>was</item>
+    <item>was</item>
+    <item>was</item>
+    <item>was</item>
+    <item>was</item>
+    <item>was</item>
+    <item>was</item>
+    <item>was</item>
+    <item>was</item>
+    <item>shall</item>
+    <item>is</item>
+    <item>have</item>
+    <item>is</item>
+    <item>was</item>
+    <item>is</item>
+    <item>is</item>
+    <item>is</item>
+    <item>is</item>
+    <item>is</item>
+    <item>was</item>
+    <item>shall</item>
+    <item>was</item>
+    <item>is</item>
+    <item>was</item>
+    <item>was</item>
+    <item>was</item>
+    <item>was</item>
+    <item>was</item>
+    <item>was</item>
+    <item>have</item>
+    <item>must</item>
+    <item>is</item>
+    <item>was</item>
+    <item>is</item>
+    <item>shall</item>
+    <item>was</item>
+    <item>was</item>
+    <item>is</item>
+    <item>should</item>
+    <item>must</item>
+    <item>should</item>
+    <item>is</item>
+    <item>is</item>
+    <item>is</item>
+    <item>is</item>
+    <item>was</item>
+    <item>was</item>
+    <item>must</item>
+    <item>was</item>
+    <item>was</item>
+    <item>was</item>
+    <item>was</item>
+    <item>was</item>
+    <item>must</item>
+    <item>shall</item>
+    <item>have</item>
+    <item>is</item>
+    <item>was</item>
+    <item>was</item>
+    <item>was</item>
+    <item>is</item>
+    <item>is</item>
+    <item>have</item>
+    <item>is</item>
+    <item>was</item>
+    <item>was</item>
+    <item>was</item>
+    <item>was</item>
+    <item>must</item>
+    <item>can</item>
+    <item>was</item>
+    <item>should</item>
+    <item>was</item>
+    <item>is</item>
+    <item>have</item>
+    <item>is</item>
+    <item>shall</item>
+    <item>may</item>
+    <item>should</item>
+
+</string-array>
+
+
+    <string-array name="negative_answer_passive">
+        <item>He does not read a book everyday.*Subject + Does + not + Verb 1st Form + Other + Object.*He*Does not*read*Every day*A book</item>
+        <item>They are not building a house.*Subject + Is/am/are + not + verb-ing + other + Object.*They*Are not*building*No Other Part*A house</item>
+        <item>He is not writing a letter.*Subject + Is/am/are + not + verb-ing + other + Object.*He*Is not*writing*No Other Part*A letter</item>
+        <item>I am not writing a letter.*Subject + Is/am/are + not + verb-ing + other + Object.*I*Am not*writing*No Other Part*A letter</item>
+        <item>I did not write a letter to the Headmaster.*Subject + Did + not + Verb 1st Form + Other + Object.*I*Did not*write*To the Head master*A letter</item>
+        <item>Lencho did not write a latter to God.*Subject + Did + not + Verb 1st Form + Other + Object.*Lencho*Did not*write*To God*A letter</item>
+        <item>My father did not write  a letter to the headmaster.*Subject + Did + not + Verb 1st Form + Other + Object.*My father*Did not*write*To the Head master*A letter</item>
+        <item>My friend did not give me a letter.*Subject + Did + not + Verb 1st Form + Other + Object.*My friend*Did not*give*Me*A letter</item>
+        <item>The girl was not he writing a letter.*Subject + was/were + not + verb-ing + other + Object.*The girl*Was not*writing*No Other Part*A letter</item>
+        <item>He was not driving a new car.*Subject + was/were + not + verb-ing + other + Object.*He*Was not*driving*No Other Part*A new car</item>
+        <item>Mr. Saikia did not buy a new car last month.*Subject + Did + not + Verb 1st Form + Other + Object.*Mr. Saikia*Did not*buy*Last month*A new car</item>
+        <item>He did not buy a pen.*Subject + Did + not + Verb 1st Form + Other + Object.*He*Did not*buy*No Other Part*A pen</item>
+        <item>He did not give me a pen.*Subject + Did + not + Verb 1st Form + Other + Object.*He*Did not*give*No Other Part*A pen</item>
+        <item>He did not ask a question.*Subject + Did + not + Verb 1st Form + Other + Object.*He*Did not*ask*No Other Part*A question</item>
+        <item>He did not makr a remarkable discovery.*Subject + Did + not + Verb 1st Form + Other + Object.*He*Did not*make*No Other Part*A remarkable discovery</item>
+        <item>The manager will not give you a ticket.*Subject + (shall/will)/can/may/must/should/ought to + not + Verb 1st Form + Other + Object.*The manager*Will not*give*you*A ticker</item>
+        <item>Carelessness does not cause accident.*Subject + Does + not + Verb 1st Form + Other + Object.*Carelessness*Does not*cause*No Other Part*Accident</item>
+        <item>He has not written all the letters.*Subject + Have/has/had + not +verb 3rd Form+ other + Object.*He*Has not*written*No Other Part*All the letters</item>
+        <item>I am not going to write an application.*Subject + Is/am/are + not + verb-ing + other + Object.*I*Am not*going*To write*An application</item>
+        <item>My friend did not send me an S.M.S.*Subject + Did + not + Verb 1st Form + Other + Object.*My friend*Did not*send*me*An S.M.S</item>
+        <item>Our teacher does not buy books every month.*Subject + Does + not + Verb 1st Form + Other + Object.*Our teacher*Does not*buy*Every month*Books</item>
+        <item>The boy are not playing cricket  today.*Subject + Is/am/are + not + verb-ing + other + Object.*The boy*Are not*playing*No Other Part*Cricket</item>
+        <item>The boys are not playing cricket in the field .*Subject + Is/am/are + not + verb-ing + other + Object.*The boys*Are not*playing*In the field*Cricket</item>
+        <item>Mohan does not learn English.*Subject + Does + not + Verb 1st Form + Other + Object.*Mohan*Does not*learns*No Other Part*English</item>
+        <item>She does not expect good news .*Subject + Does + not + Verb 1st Form + Other + Object.*She*Does not*expect*No Other Part*Good news</item>
+        <item>All his friends did not laugh at him.*Subject + Did + not + Verb 1st Form + Other + Object.*All his friends*Did not*laugh at*No Other Part*Him</item>
+        <item>The teacher has not appointed him captain.*Subject + Have/has/had + not +verb 3rd Form+ other + Object.*By the teacher*Has not*appointed*Captain*Him</item>
+        <item>I did not phone him yesterday.*Subject + Did + not + Verb 1st Form + Other + Object.*I*Did not*phone*yesterday*Him</item>
+        <item>People do not call him kalidas.*Subject  + Do + not + Verb 1st Form + Other + Object.*People*Do not*call*No Other Part*Him</item>
+        <item>The students did not elect him secretary.*Subject + Did + not + Verb 1st Form + Other + Object.*The students*Did not*elect*Captain*Him</item>
+        <item>They did not elect him president.*Subject + Did + not + Verb 1st Form + Other + Object.*They*Did not*elect*President*Him</item>
+        <item>We did not select him captain of our class.*Subject + Did + not + Verb 1st Form + Other + Object.*We*Did not*select*Of our class*Him</item>
+        <item>We did not make him captain.*Subject + Did + not + Verb 1st Form + Other + Object.*We*Did not*make*Captain*Him</item>
+        <item>We did not make him captain of our team.*Subject + Did + not + Verb 1st Form + Other + Object.*We*Did not*make*Captain of our team*Him</item>
+        <item>We did not make him chairman of the committee.*Subject + Did + not + Verb 1st Form + Other + Object.*We*Did not*make*Chairman of the committee*Him</item>
+        <item>A Thief has not stolen his clothes.*Subject + Have/has/had + not +verb 3rd Form+ other + Object.*A Thief*Has not*stolen*No Other Part*His clothes</item>
+        <item>Some one must not do it.*Subject + (shall/will)/can/may/must/should/ought to + not + Verb 1st Form + Other + Object.*Some one*Must not*do*No Other Part*It</item>
+        <item>The post man id not deliver letters every  morning.*Subject + Did + not + Verb 1st Form + Other + Object.*The post man*Did not*diliver*Every month*Letters</item>
+        <item>They did not ask them many questions.*Subject + Did + not + Verb 1st Form + Other + Object.*They*Did not*ask*Many questions*Many questions</item>
+        <item>Mr Das is not teaching me English.*Subject + Is/am/are + not + verb-ing + other + Object.*Mr Das*Is not*teaching*English*Me</item>
+        <item>Mr John will not teach me next month English.*Subject + (shall/will)/can/may/must/should/ought to + not + Verb 1st Form + Other + Object.*Mr John*Will not*teach*English next year*Me</item>
+        <item>The news did not shock me.*Subject + Did + not + Verb 1st Form + Other + Object.*The news*Did not*shock*No Other Part*Me</item>
+        <item>They did not invite me to the party.*Subject + Did + not + Verb 1st Form + Other + Object.*They*Did not*invite*To the party*Me</item>
+        <item>The teacher is not correcting our copies.*Subject + Is/am/are + not + verb-ing + other + Object.*The teacher*Is not*correcting*No Other Part*Our copies</item>
+        <item>We should not love our country.*Subject + (shall/will)/can/may/must/should/ought to + not + Verb 1st Form + Other + Object.*We*Should not*love*No Need*Our country</item>
+        <item>We must not do our duty.*Subject + (shall/will)/can/may/must/should/ought to + not + Verb 1st Form + Other + Object.*We*Must not*do*No Other Part*Our duty</item>
+        <item>We should not respect out elders.*Subject + (shall/will)/can/may/must/should/ought to + not + Verb 1st Form + Other + Object.*We*Should not*respect*No Need*Our elders</item>
+        <item>The members do not select the president.*Subject  + Do + not + Verb 1st Form + Other + Object.*The members*Do not*select*No Other Part*President</item>
+        <item>Mother is not cooking rice.*Subject + Is/am/are + not + verb-ing + other + Object.*Mother*Is not*cooking*No Other Part*Rice</item>
+        <item>My aunt is not cooking rice now.*Subject + Is/am/are + not + verb-ing + other + Object.*My aunt*Is not*cooking*Now*Rice</item>
+        <item>Children do not like sweets.*Subject  + Do + not + Verb 1st Form + Other + Object.*Children*Do not*like*No Other Part*Sweets</item>
+        <item>I did not write that book.*Subject + Did + not + Verb 1st Form + Other + Object.*I*Did not*write*No Other Part*That book</item>
+        <item>The carelesness of the driver did not of the driver cause the accident.*Subject + Did + not + Verb 1st Form + Other + Object.*The carelesness of the driver*Did not*cause*No Other Part*The accident</item>
+        <item>You must not write the answer in ink.*Subject + (shall/will)/can/may/must/should/ought to + not + Verb 1st Form + Other + Object.*You*Must not*write*In ink*The answer</item>
+        <item>The girl did not kill the bird.*Subject + Did + not + Verb 1st Form + Other + Object.*The girl*Did not*kill*No Other Part*The bird</item>
+        <item>They did not ask the boy many questions.*Subject + Did + not + Verb 1st Form + Other + Object.*They*Did not*ask*Many questions*The boy</item>
+        <item>We did not make the child cry.*Subject + Did + not + Verb 1st Form + Other + Object.*We*Did not*make*Cry*The child</item>
+        <item>I did not give her the coin.*Subject + Did + not + Verb 1st Form + Other + Object.*I*Did not*give*her*The coin</item>
+        <item>The police did not arrest the culprits.*Subject + Did + not + Verb 1st Form + Other + Object.*The police*Did not*arrest*No Other Part*The Culpits</item>
+        <item>I must not fill in the form.*Subject + (shall/will)/can/may/must/should/ought to + not + Verb 1st Form + Other + Object.*I*Must not*fill in*No Need*The form</item>
+        <item>I shall not learn the lesson .*Subject + (shall/will)/can/may/must/should/ought to + not + Verb 1st Form + Other + Object.*I*Shall not*learn*No Other Part*The lesson</item>
+        <item>I have not posted the letter.*Subject + Have/has/had + not +verb 3rd Form+ other + Object.*I*Have not*posted*No Other Part*The letter</item>
+        <item>The post man is not delivering the letters.*Subject + Is/am/are + not + verb-ing + other + Object.*The post man*Is not*delevering*No Other Part*The letters</item>
+        <item>The post man was not delivering the letters.*Subject + was/were + not + verb-ing + other + Object.*The post man*Was not*delevering*No Other Part*The letters</item>
+        <item>We did not discuss the matter thoroughly.*Subject + Did + not + Verb 1st Form + Other + Object.*We*Did not*discuss*Throughly*The matter</item>
+        <item>Our principle did not preside over the meeting.*Subject + Did + not + Verb 1st Form + Other + Object.*Our principle*Did not*preside over*No Other Part*The meeting</item>
+        <item>The doctor is not examining the patient.*Subject + Is/am/are + not + verb-ing + other + Object.*The doctor*Is not*examining*No Other Part*The patient</item>
+        <item>The gardener is not watering the plants.*Subject + Is/am/are + not + verb-ing + other + Object.*The gardener*Is not*watering*No Other Part*The plants</item>
+        <item>He has not written the poem.*Subject + Have/has/had + not +verb 3rd Form+ other + Object.*He*Has not*written*No Other Part*The poem</item>
+        <item>He is not helping  the poors.*Subject + Is/am/are + not + verb-ing + other + Object.*He*Is not*helping*No Other Part*The poor</item>
+        <item>The students did not organise the programme.*Subject + Did + not + Verb 1st Form + Other + Object.*The students*Did not*organise*No Other Part*The programme</item>
+        <item>Pramatta Singha did not build the ranghar.*Subject + Did + not + Verb 1st Form + Other + Object.*Pramatta Singha*Did not*build*No Other Part*The Ranghar</item>
+        <item>The students did not decorate the stage.*Subject + Did + not + Verb 1st Form + Other + Object.*The students*Did not*decorate*No Other Part*The stage</item>
+        <item>The hunter did not kill the tiger.*Subject + Did + not + Verb 1st Form + Other + Object.*The hunter*Did not*kill*No Other Part*The tiger</item>
+        <item>You must not finish the work.*Subject + (shall/will)/can/may/must/should/ought to + not + Verb 1st Form + Other + Object.*You*Must not*finish*No Need*The work</item>
+        <item>I can not do this.*Subject + (shall/will)/can/may/must/should/ought to + not + Verb 1st Form + Other + Object.*I*Can not*do*No Need*This</item>
+        <item>My friend did not write this letter.*Subject + Did + not + Verb 1st Form + Other + Object.*My friend*Did not*write*No Other Part*This letter</item>
+        <item>You should not ye raise this question now.*Subject + (shall/will)/can/may/must/should/ought to + not + Verb 1st Form + Other + Object.*You*Should not*raise*No Need*This question</item>
+        <item>People did not establish this school in 1960.*Subject + Did + not + Verb 1st Form + Other + Object.*People*Did not*establish*In 1960*This school</item>
+        <item>She is not buying two sarees.*Subject + Is/am/are + not + verb-ing + other + Object.*She*Is not*buying*No Other Part*Two sarees</item>
+        <item>Geeta has not invited us.*Subject + Have/has/had + not +verb 3rd Form+ other + Object.*Geeta*Has not*invited*No Other Part*Us</item>
+        <item>He does not teaches us English .*Subject + Does + not + Verb 1st Form + Other + Object.*He*Does not*teach*English*Us</item>
+        <item>Gouri Sen will not help you.*Subject + (shall/will)/can/may/must/should/ought to + not + Verb 1st Form + Other + Object.*Gouri Sen*Will not*help*No Other Part*You</item>
+        <item>He may not insult you.*Subject + (shall/will)/can/may/must/should/ought to + not + Verb 1st Form + Other + Object.*He*May not*insult*No Need*You</item>
+        <item>You should not obey your parents.*Subject + (shall/will)/can/may/must/should/ought to + not + Verb 1st Form + Other + Object.*You*Should not*obey*Now*Your parents</item>
+
+
+    </string-array>
+
+
+
+
+</resources>

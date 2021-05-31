@@ -1,0 +1,819 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string-array name="active_assertive">
+
+        <item>A doctor is examining the patients.</item>
+        <item>A thief has stolen his clothes.</item>
+        <item>All his friends laughed at him.</item>
+        <item>Carelessness causes accidents.</item>
+        <item>children like sweets.</item>
+        <item>Geeta has invited us.</item>
+        <item>Gouri sen will help you.</item>
+        <item>He asked a question.</item>
+        <item>He bought a pen.</item>
+        <item>He gave me a pen.</item>
+        <item>He has written all the letters.</item>
+        <item>He has written the poem.</item>
+        <item>He is helping  the poors.</item>
+        <item>He is writing a letter.</item>
+        <item>He made a remarkable discovery.</item>
+        <item>He may insult you.</item>
+        <item>He reads a book everyday.</item>
+        <item>He teaches us English .</item>
+        <item>He was driving a new car.</item>
+        <item>I am going to write an application.</item>
+        <item>I am writing a letter.</item>
+        <item>I can do this.</item>
+        <item>I gave her the coin.</item>
+        <item>I have posted the letter.</item>
+        <item>I must fill in the form.</item>
+        <item>I phoned him yesterday.</item>
+        <item>I shall learn the lesson .</item>
+        <item>I wrote a letter to the Headmaster.</item>
+        <item>I wrote that book.</item>
+        <item>Lencho wrote a latter to God.</item>
+        <item>Mohan learns English</item>
+        <item>Mother is cooking rice</item>
+        <item>Mr Das is teaching me English.</item>
+        <item>Mr. john will teach me English next month .</item>
+        <item>Mr.saikia bought a new car last month.</item>
+        <item>My aunt is cooking rice now.</item>
+        <item>My father wrote  a letter to the headmaster.</item>
+        <item>My friend gave me a letter.</item>
+        <item>My friend sent me an S.M.S.</item>
+        <item>My friend wrote this letter.</item>
+        <item>Our Principle presided over the meeting.</item>
+        <item>Our teacher buys books every month.</item>
+        <item>People called him kalidas.</item>
+        <item>People established this school in 1960.</item>
+        <item>Pramatta singha built the ranghar.</item>
+        <item>she expects good news .</item>
+        <item>She is buying two sarees.</item>
+        <item>Some one must do it.</item>
+        <item>The boys are playing cricket  today.</item>
+        <item>The boys are playing cricket in the field .</item>
+        <item>The carelesness of the driver caused the accident</item>
+        <item>The doctor is examining the patient.</item>
+        <item>The gardener is watering the plants.</item>
+        <item>The girl killed the bird</item>
+        <item>The girl was writing a letter.</item>
+        <item>The hunter killed the tiger.</item>
+        <item>The manager will give you a ticket.</item>
+        <item>The members select the president.</item>
+        <item>The news shocked me.</item>
+        <item>The police arrested the culprits.</item>
+        <item>The postman delivers letters every  morning.</item>
+        <item>The postman is delivering the letters.</item>
+        <item>The postman was delivering the letters.</item>
+        <item>The students decorated the stage.</item>
+        <item>The students elected him secretary.</item>
+        <item>The students organised the programme.</item>
+        <item>The teacher has appointed him captain.</item>
+        <item>The teacher is correcting our copies.</item>
+        <item>They are building a house</item>
+        <item>They asked the boy many questions.</item>
+        <item>They asked them many questions.</item>
+        <item>They elected him president.</item>
+        <item>They invited me to the party.</item>
+        <item>we discussed the matter thoroughly.</item>
+        <item>We made him captain of our team.</item>
+        <item>We made him captain.</item>
+        <item>We made him chairman of the committee.</item>
+        <item>We made the child cry.</item>
+        <item>We must do our duty.</item>
+        <item>We selected him captain of our class.</item>
+        <item>We should love our country.</item>
+        <item>We should respect out elders.</item>
+        <item>You must finish the work.</item>
+        <item>You must write the answer in ink.</item>
+        <item>You must write the answer in ink.</item>
+        <item>You should  obey your parents.</item>
+        <item>You should raise this question now.</item>
+
+    </string-array>
+
+    <string-array name="active_subject">
+        <item>A doctor</item>
+        <item>A Thief</item>
+        <item>All his friends</item>
+        <item>Carelessness</item>
+        <item>Children</item>
+        <item>Geeta</item>
+        <item>Gouri Sen</item>
+        <item>He</item>
+        <item>He</item>
+        <item>He</item>
+        <item>He</item>
+        <item>He</item>
+        <item>He</item>
+        <item>He</item>
+        <item>He</item>
+        <item>He</item>
+        <item>He</item>
+        <item>He</item>
+        <item>He</item>
+        <item>I</item>
+        <item>I</item>
+        <item>I</item>
+        <item>I</item>
+        <item>I</item>
+        <item>I</item>
+        <item>I</item>
+        <item>I</item>
+        <item>I</item>
+        <item>I</item>
+        <item>Lencho</item>
+        <item>Mohan</item>
+        <item>Mother</item>
+        <item>Mr Das</item>
+        <item>Mr John</item>
+        <item>Mr. Saikia</item>
+        <item>My aunt</item>
+        <item>My father</item>
+        <item>My friend</item>
+        <item>My friend</item>
+        <item>My friend</item>
+        <item>Our principle</item>
+        <item>Our teacher</item>
+        <item>People</item>
+        <item>People</item>
+        <item>Pramatta Singha</item>
+        <item>She</item>
+        <item>She</item>
+        <item>Some one</item>
+        <item>The boy</item>
+        <item>The boys</item>
+        <item>The carelesness of the driver</item>
+        <item>The doctor</item>
+        <item>The gardener</item>
+        <item>The girl</item>
+        <item>The girl</item>
+        <item>The hunter</item>
+        <item>The manager</item>
+        <item>The members</item>
+        <item>The news</item>
+        <item>The police</item>
+        <item>The post man</item>
+        <item>The post man</item>
+        <item>The post man</item>
+        <item>The students</item>
+        <item>The students</item>
+        <item>The students</item>
+        <item>The teacher</item>
+        <item>The teacher</item>
+        <item>They</item>
+        <item>They</item>
+        <item>They</item>
+        <item>They</item>
+        <item>They</item>
+        <item>We</item>
+        <item>We</item>
+        <item>We</item>
+        <item>We</item>
+        <item>We</item>
+        <item>We</item>
+        <item>We</item>
+        <item>We</item>
+        <item>We</item>
+        <item>You</item>
+        <item>You</item>
+        <item>You</item>
+        <item>You</item>
+        <item>You</item>
+    </string-array>
+    <string-array name="active_helpingVerb">
+        <item>Is</item>
+        <item>Has</item>
+        <item>No helping verb</item>
+        <item>No helping verb</item>
+        <item>No helping verb</item>
+        <item>Has</item>
+        <item>Will</item>
+        <item>No helping verb</item>
+        <item>No helping verb</item>
+        <item>No helping verb</item>
+        <item>Has</item>
+        <item>Has</item>
+        <item>Is</item>
+        <item>Is</item>
+        <item>No helping verb</item>
+        <item>May</item>
+        <item>No helping verb</item>
+        <item>No helping verb</item>
+        <item>Was</item>
+        <item>Am</item>
+        <item>Am</item>
+        <item>Can</item>
+        <item>No helping verb</item>
+        <item>Have</item>
+        <item>Must</item>
+        <item>No helping verb</item>
+        <item>Shall</item>
+        <item>No helping verb</item>
+        <item>No helping verb</item>
+        <item>No helping verb</item>
+        <item>No helping verb</item>
+        <item>Is</item>
+        <item>Is</item>
+        <item>Will</item>
+        <item>No helping verb</item>
+        <item>Is</item>
+        <item>No helping verb</item>
+        <item>No helping verb</item>
+        <item>No helping verb</item>
+        <item>No helping verb</item>
+        <item>No helping verb</item>
+        <item>No helping verb</item>
+        <item>No helping verb</item>
+        <item>No helping verb</item>
+        <item>No helping verb</item>
+        <item>No helping verb</item>
+        <item>Is</item>
+        <item>Must</item>
+        <item>Are</item>
+        <item>Are</item>
+        <item>No helping verb</item>
+        <item>Is</item>
+        <item>Is</item>
+        <item>No helping verb</item>
+        <item>Was</item>
+        <item>No helping verb</item>
+        <item>Will</item>
+        <item>No helping verb</item>
+        <item>No helping verb</item>
+        <item>No helping verb</item>
+        <item>No helping verb</item>
+        <item>Is</item>
+        <item>Was</item>
+        <item>No helping verb</item>
+        <item>No helping verb</item>
+        <item>No helping verb</item>
+        <item>Has</item>
+        <item>Is</item>
+        <item>Are</item>
+        <item>No helping verb</item>
+        <item>No helping verb</item>
+        <item>No helping verb</item>
+        <item>No helping verb</item>
+        <item>No helping verb</item>
+        <item>No helping verb</item>
+        <item>No helping verb</item>
+        <item>No helping verb</item>
+        <item>No helping verb</item>
+        <item>Must</item>
+        <item>No helping verb</item>
+        <item>Should</item>
+        <item>Should</item>
+        <item>Must</item>
+        <item>Must</item>
+        <item>Must</item>
+        <item>Should</item>
+        <item>Should</item>
+    </string-array>
+    <string-array name="active_verb">
+        <item>examining</item>
+        <item>stolen</item>
+        <item>laughed at</item>
+        <item>causes</item>
+        <item>like</item>
+        <item>invited</item>
+        <item>help</item>
+        <item>asked</item>
+        <item>bought</item>
+        <item>gave</item>
+        <item>written</item>
+        <item>written</item>
+        <item>helping</item>
+        <item>writing</item>
+        <item>made</item>
+        <item>insult</item>
+        <item>reads</item>
+        <item>teaches</item>
+        <item>driving</item>
+        <item>going</item>
+        <item>writing</item>
+        <item>do</item>
+        <item>gave</item>
+        <item>posted</item>
+        <item>fill in</item>
+        <item>phoned</item>
+        <item>learn</item>
+        <item>wrote</item>
+        <item>wrote</item>
+        <item>wrote</item>
+        <item>learns</item>
+        <item>cooking</item>
+        <item>teaching</item>
+        <item>teach</item>
+        <item>bought</item>
+        <item>cooking</item>
+        <item>wrote</item>
+        <item>gave</item>
+        <item>sent</item>
+        <item>wrote</item>
+        <item>presided over</item>
+        <item>buys</item>
+        <item>called</item>
+        <item>established</item>
+        <item>built</item>
+        <item>expects</item>
+        <item>buying</item>
+        <item>do</item>
+        <item>playing</item>
+        <item>playing</item>
+        <item>caused</item>
+        <item>examining</item>
+        <item>watering</item>
+        <item>killed</item>
+        <item>writing</item>
+        <item>killed</item>
+        <item>give</item>
+        <item>selected</item>
+        <item>shocked</item>
+        <item>arrested</item>
+        <item>delivers</item>
+        <item>delivering</item>
+        <item>delivering</item>
+        <item>decorated</item>
+        <item>elected</item>
+        <item>organised</item>
+        <item>appointed</item>
+        <item>correcting</item>
+        <item>building</item>
+        <item>asked</item>
+        <item>asked</item>
+        <item>elected</item>
+        <item>invited</item>
+        <item>discussed</item>
+        <item>made</item>
+        <item>made</item>
+        <item>made</item>
+        <item>made</item>
+        <item>do</item>
+        <item>selected</item>
+        <item>love</item>
+        <item>respect</item>
+        <item>finish</item>
+        <item>write</item>
+        <item>write</item>
+        <item>obey</item>
+        <item>raise</item>
+    </string-array>
+
+    <string-array name="active_otherPert">
+        <item>No Other Part</item>
+        <item>No Other Part</item>
+        <item>No Other Part</item>
+        <item>No Other Part</item>
+        <item>No Other Part</item>
+        <item>No Other Part</item>
+        <item>No Other Part</item>
+        <item>No Other Part</item>
+        <item>No Other Part</item>
+        <item>Me</item>
+        <item>No Other Part</item>
+        <item>No Other Part</item>
+        <item>No Other Part</item>
+        <item>No Other Part</item>
+        <item>No Other Part</item>
+        <item>No Need</item>
+        <item>Every day</item>
+        <item>English</item>
+        <item>No Other Part</item>
+        <item>To write</item>
+        <item>No Other Part</item>
+        <item>No Need</item>
+        <item>her</item>
+        <item>No Other Part</item>
+        <item>No Need</item>
+        <item>yesterday</item>
+        <item>No Other Part</item>
+        <item>To the Head master</item>
+        <item>No Other Part</item>
+        <item>To God</item>
+        <item>No Other Part</item>
+        <item>No Other Part</item>
+        <item>English</item>
+        <item>English next month</item>
+        <item>Last month</item>
+        <item>Now</item>
+        <item>To the Head master</item>
+        <item>Me</item>
+        <item>me</item>
+        <item>No Other Part</item>
+        <item>No Other Part</item>
+        <item>Every month</item>
+        <item>Kalidas</item>
+        <item>In 1960</item>
+        <item>No Other Part</item>
+        <item>No Other Part</item>
+        <item>No Other Part</item>
+        <item>No Other Part</item>
+        <item>Today</item>
+        <item>In the field</item>
+        <item>No Other Part</item>
+        <item>No Other Part</item>
+        <item>No Other Part</item>
+        <item>No Other Part</item>
+        <item>No Other Part</item>
+        <item>No Other Part</item>
+        <item>you</item>
+        <item>No Other Part</item>
+        <item>No Other Part</item>
+        <item>No Other Part</item>
+        <item>Every morning</item>
+        <item>No Other Part</item>
+        <item>No Other Part</item>
+        <item>No Other Part</item>
+        <item>Secretary</item>
+        <item>No Other Part</item>
+        <item>Captain</item>
+        <item>No Other Part</item>
+        <item>No Other Part</item>
+        <item>Many questions</item>
+        <item>them</item>
+        <item>President</item>
+        <item>To the party</item>
+        <item>Thoroughly</item>
+        <item>Captain of our team</item>
+        <item>Captain</item>
+        <item>Chairman of the committee</item>
+        <item>Cry</item>
+        <item>No Other Part</item>
+        <item>Captain of our class</item>
+        <item>No Need</item>
+        <item>No Need</item>
+        <item>No Need</item>
+        <item>In ink</item>
+        <item>In ink</item>
+        <item>Now</item>
+        <item>Now</item>
+    </string-array>
+
+    <string-array name="active_Oject">
+        <item>The patients</item>
+        <item>His clothes</item>
+        <item>Him</item>
+        <item>Accident</item>
+        <item>Sweets</item>
+        <item>Us</item>
+        <item>You</item>
+        <item>A question</item>
+        <item>A pen</item>
+        <item>A pen</item>
+        <item>All the letters</item>
+        <item>The poem</item>
+        <item>The poor</item>
+        <item>A letter</item>
+        <item>A remarkable discovery</item>
+        <item>You</item>
+        <item>A book</item>
+        <item>Us</item>
+        <item>A new car</item>
+        <item>An application</item>
+        <item>A letter</item>
+        <item>This</item>
+        <item>The coin</item>
+        <item>The letter</item>
+        <item>The form</item>
+        <item>Him</item>
+        <item>The lesson</item>
+        <item>A letter</item>
+        <item>That book</item>
+        <item>A letter</item>
+        <item>English</item>
+        <item>Rice</item>
+        <item>Me</item>
+        <item>Me</item>
+        <item>A new car</item>
+        <item>Rice</item>
+        <item>A letter</item>
+        <item>A letter</item>
+        <item>An S.M.S</item>
+        <item>This letter</item>
+        <item>The meeting</item>
+        <item>Books</item>
+        <item>Him</item>
+        <item>This school</item>
+        <item>The Ranghar</item>
+        <item>Good news</item>
+        <item>Two sarees</item>
+        <item>It</item>
+        <item>Cricket</item>
+        <item>Cricket</item>
+        <item>The accident</item>
+        <item>The patient</item>
+        <item>The plants</item>
+        <item>The bird</item>
+        <item>A letter</item>
+        <item>The tiger</item>
+        <item>A ticker</item>
+        <item>President</item>
+        <item>Me</item>
+        <item>The Culpits</item>
+        <item>Letters</item>
+        <item>The letters</item>
+        <item>The letters</item>
+        <item>The stage</item>
+        <item>Him</item>
+        <item>The programme</item>
+        <item>Him</item>
+        <item>Our copies</item>
+        <item>A house</item>
+        <item>The boy</item>
+        <item>Many questions</item>
+        <item>Him</item>
+        <item>Me</item>
+        <item>The matter</item>
+        <item>Him</item>
+        <item>Him</item>
+        <item>Him</item>
+        <item>The child</item>
+        <item>Our duty</item>
+        <item>Him</item>
+        <item>Our country</item>
+        <item>Our elders</item>
+        <item>The work</item>
+        <item>The answer</item>
+        <item>The answer</item>
+        <item>Your parents</item>
+        <item>This question</item>
+    </string-array>
+    <string-array name="assertive_serial">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+        <item>31</item>
+        <item>32</item>
+        <item>33</item>
+        <item>34</item>
+        <item>35</item>
+        <item>36</item>
+        <item>37</item>
+        <item>38</item>
+        <item>39</item>
+        <item>40</item>
+        <item>41</item>
+        <item>42</item>
+        <item>43</item>
+        <item>44</item>
+        <item>45</item>
+        <item>46</item>
+        <item>47</item>
+        <item>48</item>
+        <item>49</item>
+        <item>50</item>
+        <item>51</item>
+        <item>52</item>
+        <item>53</item>
+        <item>54</item>
+        <item>55</item>
+        <item>56</item>
+        <item>57</item>
+        <item>58</item>
+        <item>59</item>
+        <item>60</item>
+        <item>61</item>
+        <item>62</item>
+        <item>63</item>
+        <item>64</item>
+        <item>65</item>
+        <item>66</item>
+        <item>67</item>
+        <item>68</item>
+        <item>69</item>
+        <item>70</item>
+        <item>71</item>
+        <item>72</item>
+        <item>73</item>
+        <item>74</item>
+        <item>75</item>
+        <item>76</item>
+        <item>77</item>
+        <item>78</item>
+        <item>79</item>
+        <item>80</item>
+        <item>81</item>
+        <item>82</item>
+        <item>83</item>
+        <item>84</item>
+        <item>85</item>
+        <item>86</item>
+        <item>87</item>
+    </string-array>
+
+    <string-array name="assertive_stracture">
+        <item>Sub + is/am/are + verb-ing + other + Object</item>
+        <item>Sub + have/has/had +verb 3rd Form+ other + Object</item>
+        <item>Sub +Verb 2nd Form + Other + Object</item>
+        <item>Sub + Verb 1st Form + Other + Object</item>
+        <item>Sub + Verb 1st Form + Other + Object</item>
+        <item>Sub + have/has/had +verb 3rd Form+ other + Object</item>
+        <item>Sub + (shall/will)/can/may/must/should/ought to + Verb 1st Form + Other + Object</item>
+        <item>Sub +Verb 2nd Form + Other + Object</item>
+        <item>Sub +Verb 2nd Form + Other + Object</item>
+        <item>Sub +Verb 2nd Form + Other + Object</item>
+        <item>Sub + have/has/had +verb 3rd Form+ other + Object</item>
+        <item>Sub + have/has/had +verb 3rd Form+ other + Object</item>
+        <item>Sub + is/am/are + verb-ing + other + Object</item>
+        <item>Sub + is/am/are + verb-ing + other + Object</item>
+        <item>Sub +Verb 2nd Form + Other + Object</item>
+        <item>Sub + (shall/will)/can/may/must/should/ought to + Verb 1st Form + Other + Object</item>
+        <item>Sub + Verb 1st Form + Other + Object</item>
+        <item>Sub + Verb 1st Form + Other + Object</item>
+        <item>Sub + was/were + verb-ing + other + Object</item>
+        <item>Sub + is/am/are + verb-ing + other + Object</item>
+        <item>Sub + is/am/are + verb-ing + other + Object</item>
+        <item>Sub + (shall/will)/can/may/must/should/ought to + Verb 1st Form + Other + Object</item>
+        <item>Sub +Verb 2nd Form + Other + Object</item>
+        <item>Sub + have/has/had +verb 3rd Form+ other + Object</item>
+        <item>Sub + (shall/will)/can/may/must/should/ought to + Verb 1st Form + Other + Object</item>
+        <item>Sub +Verb 2nd Form + Other + Object</item>
+        <item>Sub + (shall/will)/can/may/must/should/ought to + Verb 1st Form + Other + Object</item>
+        <item>Sub +Verb 2nd Form + Other + Object</item>
+        <item>Sub +Verb 2nd Form + Other + Object</item>
+        <item>Sub +Verb 2nd Form + Other + Object</item>
+        <item>Sub + Verb 1st Form + Other + Object</item>
+        <item>Sub + is/am/are + verb-ing + other + Object</item>
+        <item>Sub + is/am/are + verb-ing + other + Object</item>
+        <item>Sub + (shall/will)/can/may/must/should/ought to + Verb 1st Form + Other + Object</item>
+        <item>Sub +Verb 2nd Form + Other + Object</item>
+        <item>Sub + is/am/are + verb-ing + other + Object</item>
+        <item>Sub +Verb 2nd Form + Other + Object</item>
+        <item>Sub +Verb 2nd Form + Other + Object</item>
+        <item>Sub +Verb 2nd Form + Other + Object</item>
+        <item>Sub +Verb 2nd Form + Other + Object</item>
+        <item>Sub +Verb 2nd Form + Other + Object</item>
+        <item>Sub + Verb 1st Form + Other + Object</item>
+        <item>Sub +Verb 2nd Form + Other + Object</item>
+        <item>Sub +Verb 2nd Form + Other + Object</item>
+        <item>Sub +Verb 2nd Form + Other + Object</item>
+        <item>Sub + Verb 1st Form + Other + Object</item>
+        <item>Sub + is/am/are + verb-ing + other + Object</item>
+        <item>Sub + (shall/will)/can/may/must/should/ought to + Verb 1st Form + Other + Object</item>
+        <item>Sub + is/am/are + verb-ing + other + Object</item>
+        <item>Sub + is/am/are + verb-ing + other + Object</item>
+        <item>Sub +Verb 2nd Form + Other + Object</item>
+        <item>Sub + is/am/are + verb-ing + other + Object</item>
+        <item>Sub + is/am/are + verb-ing + other + Object</item>
+        <item>Sub +Verb 2nd Form + Other + Object</item>
+        <item>Sub + was/were + verb-ing + other + Object</item>
+        <item>Sub +Verb 2nd Form + Other + Object</item>
+        <item>Sub + (shall/will)/can/may/must/should/ought to + Verb 1st Form + Other + Object</item>
+        <item>Sub + Verb 1st Form + Other + Object</item>
+        <item>Sub +Verb 2nd Form + Other + Object</item>
+        <item>Sub +Verb 2nd Form + Other + Object</item>
+        <item>Sub +Verb 2nd Form + Other + Object</item>
+        <item>Sub + is/am/are + verb-ing + other + Object</item>
+        <item>Sub + was/were + verb-ing + other + Object</item>
+        <item>Sub +Verb 2nd Form + Other + Object</item>
+        <item>Sub +Verb 2nd Form + Other + Object</item>
+        <item>Sub +Verb 2nd Form + Other + Object</item>
+        <item>Sub + have/has/had +verb 3rd Form+ other + Object</item>
+        <item>Sub + is/am/are + verb-ing + other + Object</item>
+        <item>Sub + is/am/are + verb-ing + other + Object</item>
+        <item>Sub +Verb 2nd Form + Other + Object</item>
+        <item>Sub +Verb 2nd Form + Other + Object</item>
+        <item>Sub +Verb 2nd Form + Other + Object</item>
+        <item>Sub +Verb 2nd Form + Other + Object</item>
+        <item>Sub +Verb 2nd Form + Other + Object</item>
+        <item>Sub +Verb 2nd Form + Other + Object</item>
+        <item>Sub +Verb 2nd Form + Other + Object</item>
+        <item>Sub +Verb 2nd Form + Other + Object</item>
+        <item>Sub +Verb 2nd Form + Other + Object</item>
+        <item>Sub + (shall/will)/can/may/must/should/ought to + Verb 1st Form + Other + Object</item>
+        <item>Sub +Verb 2nd Form + Other + Object</item>
+        <item>Sub + (shall/will)/can/may/must/should/ought to + Verb 1st Form + Other + Object</item>
+        <item>Sub + (shall/will)/can/may/must/should/ought to + Verb 1st Form + Other + Object</item>
+        <item>Sub + (shall/will)/can/may/must/should/ought to + Verb 1st Form + Other + Object</item>
+        <item>Sub + (shall/will)/can/may/must/should/ought to + Verb 1st Form + Other + Object</item>
+        <item>Sub + (shall/will)/can/may/must/should/ought to + Verb 1st Form + Other + Object</item>
+        <item>Sub + (shall/will)/can/may/must/should/ought to + Verb 1st Form + Other + Object</item>
+        <item>Sub + (shall/will)/can/may/must/should/ought to + Verb 1st Form + Other + Object</item>
+    </string-array>
+
+
+
+    <string-array name="assertive_answer">
+        <item>%The patients are  being examined by a doctor.*Object + is/am/are + being + verb-3rd Form + other + By-Subject*The patients*Are*being examined*No Need*By - A doctor%</item>
+        <item>%His clothes have been stolen by a thief.*Object + have/has/had + been + verb-3rd Form + other + Subject*His clothes*Have*been stolen*No Need*By - Thief%</item>
+        <item>%He was laughed at by all his friends.*Object + was/were +  verb-3rd Form + other + By-Subject*He*Was*laughed at*No Need*By - All his friends%</item>
+        <item>%Accidents are caused by carelessness.*Object + is/am/are+verb-3rd Form + other + By-Subject*Accidents*Are*caused*No Need*By - Carelessness%</item>
+        <item>%Sweets are liked by Children.*Object + is/am/are+verb-3rd Form + other + By-Subject*Sweets*Are*liked*No Need*By - Children%</item>
+        <item>%We have been invited by Geeta.*Object + have/has/had + been + verb-3rd Form + other + Subject*We*Have*been invited*No Need*By - Geeta%</item>
+        <item>%You will be helped by Gouri sen.*Object + (shall/will)/may/must/should/ought to + be + Verb 3rd Form + Other + By-Subject*You*Will*be helped*No Need*By - Gouri Sen%</item>
+        <item>%A question was asked by him.*Object + was/were +  verb-3rd Form + other + By-Subject*A question*Was*asked*No Need*By - Him%</item>
+        <item>%A pen was bought by him.*Object + was/were +  verb-3rd Form + other + By-Subject*A pen*Was*bought*No Need*By - Him%</item>
+        <item>%A pen was given to me by him.*Object + was/were +  verb-3rd Form + other + By-Subject*A pen*Was*given*To me*By - Him%</item>
+        <item>%All the letters have been written by him.*Object + have/has/had + been + verb-3rd Form + other + Subject*All the letters*Have*been written*No Need*By - Him%</item>
+        <item>%The poem has been written by him.*Object + have/has/had + been + verb-3rd Form + other + Subject*The poem*Has*been written*No Need*By - Him%</item>
+        <item>%The poors are being helped by him.*Object + is/am/are + being + verb-3rd Form + other + By-Subject*The poors*Are*being helped*No Need*By - Him%</item>
+        <item>%A letter is being written by him.*Object + is/am/are + being + verb-3rd Form + other + By-Subject*A letter*Is*being written*No Need*By - Him%</item>
+        <item>%A remarkable discovery was made by him.*Object + was/were +  verb-3rd Form + other + By-Subject*A remarkable discovery*was*made*No Need*By - Him%</item>
+        <item>%You may be insulted by you.*Object + (shall/will)/may/must/should/ought to + be + Verb 3rd Form + Other + By-Subject*You*May*be insulted*No Need*By - You%</item>
+        <item>%A book is read everyday by him.*Object + is/am/are+verb-3rd Form + other + By-Subject*A book*Is*read*Every day*By - Him%</item>
+        <item>%We are taught English by him.*Object + is/am/are+verb-3rd Form + other + By-Subject*We*Are*taught*English*By - Him%</item>
+        <item>%A new car was being drove by him.*Object + was/were + being + verb-3rd Form + other + By-Subject*A new car*Was*being drove*No Need*By - Him%</item>
+        <item>%An application is going to be written by me.*Object + is/am/are + being + verb-3rd Form + other + By-Subject*An application*Is*going to be written*No Need*By - Me%</item>
+        <item>%A latter is being written by me.*Object + is/am/are + being + verb-3rd Form + other + By-Subject*A letter*is*being written*No Need*By - Me%</item>
+        <item>%This can be done by me.*Object + (shall/will)/may/must/should/ought to + be + Verb 3rd Form + Other + By-Subject*This*Can*be done*No Need*By - Me%</item>
+        <item>%The coin was given to her by me.*Object + was/were +  verb-3rd Form + other + By-Subject*The coin*Was*given*To her*By - Me%</item>
+        <item>%The letter has been posted by me.*Object + have/has/had + been + verb-3rd Form + other + Subject*The letter*Has*been posted*No Need*By - Me%</item>
+        <item>%The form must be filled in by me.*Object + (shall/will)/may/must/should/ought to + be + Verb 3rd Form + Other + By-Subject*The form*Must*be filled*in*By - Me%</item>
+        <item>%He was phoned yesterday by me.*Object + was/were +  verb-3rd Form + other + By-Subject*He*Was*phoned*Yesterday*By - Me%</item>
+        <item>%The lesson will be learnt by me .*Object + (shall/will)/may/must/should/ought to + be + Verb 3rd Form + Other + By-Subject*The lesson*Will*be learnt*No Need*By - Me%</item>
+        <item>%A letter was written to the Headmaster by me.*Object + was/were +  verb-3rd Form + other + By-Subject*A letter*Was*written*To the Head master*By - Me%</item>
+        <item>%That book was written by me*Object + was/were +  verb-3rd Form + other + By-Subject*That book*Was*written*No Need*By - Me%</item>
+        <item>%A latter was written to God by Leneho.*Object + was/were +  verb-3rd Form + other + By-Subject*A letter*Was*written*To God*By - Lencho%</item>
+        <item>%English is learnt by Mohan.*Object + is/am/are+verb-3rd Form + other + By-Subject*English*Is*learnt*No Need*By - Mohan%</item>
+        <item>%Rice is being cooked by mother.*Object + is/am/are + being + verb-3rd Form + other + By-Subject*Rice*Is*being cooked*No Need*By - Mother%</item>
+        <item>%I am being taught English by Mr. Das.*Object + is/am/are + being + verb-3rd Form + other + By-Subject*I*Am*being taught*English*By - Mr Das%</item>
+        <item>%I shall be taught English next month by Mr. john.*Object + (shall/will)/may/must/should/ought to + be + Verb 3rd Form + Other + By-Subject*I*Shall*be taught*English next month*By - Mr John%</item>
+        <item>%A new car was bought last month by mr.saikia.*Object + was/were +  verb-3rd Form + other + By-Subject*A new car*Was*bought*Last month*By - Mr. Saikia%</item>
+        <item>%Rice is being cooked now by my aunt.*Object + is/am/are + being + verb-3rd Form + other + By-Subject*Rice*Is*being cooked*Now*By - My aunt%</item>
+        <item>%A letter was written to the headmaster by my father.*Object + was/were +  verb-3rd Form + other + By-Subject*A letter*Was*written*To the Head master*By - My father%</item>
+        <item>%A latter was given to me by my friend.*Object + was/were +  verb-3rd Form + other + By-Subject*A letter*Was*given*To me*By - My friend%</item>
+        <item>%An S. M. S. Was sent to me by my friend .*Object + was/were +  verb-3rd Form + other + By-Subject*An S.M.S*Was*sent*To me*By - My friend%</item>
+        <item>%This book was written by my friend.*Object + was/were +  verb-3rd Form + other + By-Subject*This book*Was*written*No Need*By - My friend%</item>
+        <item>%The meeting was presided over by our principle.*Object + was/were +  verb-3rd Form + other + By-Subject*The meeting*Was*presided over*No Need*By - Our principle%</item>
+        <item>%Books are bought every month by our teacher.*Object + is/am/are+verb-3rd Form + other + By-Subject*Books*Are*bought*Every month*By - Our teacher%</item>
+        <item>%He was called kalidas by people .*Object + was/were +  verb-3rd Form + other + By-Subject*He*Was*called*Kalidas*By - People%</item>
+        <item>%This school was established in 1960 by people.*Object + was/were +  verb-3rd Form + other + By-Subject*This school*Was*established*In 1960*By - People%</item>
+        <item>%Ranghar was built by pramatta singha.*Object + was/were +  verb-3rd Form + other + By-Subject*Ranghar*Was*built*No Need*By - Pramatta Singha%</item>
+        <item>%Good news is expected by her.*Object + is/am/are+verb-3rd Form + other + By-Subject*Good news*Is*expected*No Need*By - Her%</item>
+        <item>%Two sarees are being bought by her.*Object + is/am/are + being + verb-3rd Form + other + By-Subject*Two sarees*Are*being bought*No Need*By - Her%</item>
+        <item>%It must be done by some one*Object + (shall/will)/may/must/should/ought to + be + Verb 3rd Form + Other + By-Subject*It*Must*be done*No Need*By - Some one%</item>
+        <item>%Cricket is being played today by the boys.*Object + is/am/are + being + verb-3rd Form + other + By-Subject*Cricket*Is*being played*today*By - The boys%</item>
+        <item>%Cricket is being played in the field by the boys.*Object + is/am/are + being + verb-3rd Form + other + By-Subject*Cricket*Is*being played*In the field*By - The boys%</item>
+        <item>%The accident was caused by the carelessness of the driver.*Object + was/were +  verb-3rd Form + other + By-Subject*The accident*Was*caused*No Need*By - The carelesness of the driver%</item>
+        <item>%The patient is being examined by the doctor.*Object + is/am/are + being + verb-3rd Form + other + By-Subject*The patient*Is*being examined*No Need*By - The doctor%</item>
+        <item>%The plants are being watered by the gardener.*Object + is/am/are + being + verb-3rd Form + other + By-Subject*The plants*Are*being watered*No Need*By - The gardener%</item>
+        <item>%The bird was killed by the girl.*Object + was/were +  verb-3rd Form + other + By-Subject*The bird*Was*killed*No Need*By - The girl%</item>
+        <item>%A letter was being written by the girl.*Object + was/were + being + verb-3rd Form + other + By-Subject*A letter*Was*being written*No Need*By - The girl%</item>
+        <item>%The tiger was killed by the hunter.*Object + was/were +  verb-3rd Form + other + By-Subject*The tiger*Was*killed*No Need*By - The hunter%</item>
+        <item>%A ticket will be given to you by the manager.*Object + (shall/will)/may/must/should/ought to + be + Verb 3rd Form + Other + By-Subject*A ticket*Will*be given*To you*By - The manager%</item>
+        <item>%The president is selected by the members.*Object + is/am/are+verb-3rd Form + other + By-Subject*President*Is*selected*No Need*By - The members%</item>
+        <item>%I was shocked at the news.*Object + was/were +  verb-3rd Form + other + By-Subject*I*Was*shocked*No Need*By - The news%</item>
+        <item>%The culprits were arrested by the police.*Object + was/were +  verb-3rd Form + other + By-Subject*Culpits*Were*arrested*No Need*By - The police%</item>
+        <item>%Letters are delivered every day by the postman.*Object + is/am/are+verb-3rd Form + other + By-Subject*Letters*Are*delivered*Every day*By - The post man%</item>
+        <item>%The letters are being delivered by the postman.*Object + is/am/are + being + verb-3rd Form + other + By-Subject*The letters*Are*being delivered*No Need*By - The post man%</item>
+        <item>%The letters were being delivered by the post man*Object + was/were + being + verb-3rd Form + other + By-Subject*The letters*Were*being delivered*No Need*By - The post man%</item>
+        <item>%The stage was decorated by the students.*Object + was/were +  verb-3rd Form + other + By-Subject*The stage*Was*decorated*No Need*By - The students%</item>
+        <item>%He was elected secretary by the students.*Object + was/were +  verb-3rd Form + other + By-Subject*He*Was*elected*Secretary*By - The students%</item>
+        <item>%The programme was organised by the students.*Object + was/were +  verb-3rd Form + other + By-Subject*The programme*Was*organised*No Need*By - The students%</item>
+        <item>%He has been appointed captain by the teacher.*Object + have/has/had + been + verb-3rd Form + other + Subject*He*Has*been appointed*Captain*By - the teacher%</item>
+        <item>%Our copies are being corrected by the teacher*Object + is/am/are + being + verb-3rd Form + other + By-Subject*Our copies*Are*being corrected*No Need*By - The teacher%</item>
+        <item>%A house is being built by them.*Object + is/am/are + being + verb-3rd Form + other + By-Subject*A house*Is*being built*No Need*By - Them%</item>
+        <item>%The boy was asked many questions by them.*Object + was/were +  verb-3rd Form + other + By-Subject*The boy*Was*asked*Many questions*By - Them%</item>
+        <item>%Many questions were asked by them.*Object + was/were +  verb-3rd Form + other + By-Subject*Many questions*Were*asked*No Need*By - Them%</item>
+        <item>%He was elected president by them.*Object + was/were +  verb-3rd Form + other + By-Subject*He*Was*elected*President*By - Them%</item>
+        <item>%I was invited to the party by them.*Object + was/were +  verb-3rd Form + other + By-Subject*I*Was*invited*To the party*By - Them%</item>
+        <item>%The matter was discussed thoroughly by us.*Object + was/were +  verb-3rd Form + other + By-Subject*The matter*Was*discussed*Thoroughly*By - Us%</item>
+        <item>%He was made captain of our team by us.*Object + was/were +  verb-3rd Form + other + By-Subject*He*Was*made*Captain of our team*By - Us%</item>
+        <item>%He was made captain by us.*Object + was/were +  verb-3rd Form + other + By-Subject*He*Was*made*Captain*By - Us%</item>
+        <item>%He was made chairman of the committee by us.*Object + was/were +  verb-3rd Form + other + By-Subject*He*Was*made*Chairman of the committee*By - Us%</item>
+        <item>%The child was made cry by us.*Object + was/were +  verb-3rd Form + other + By-Subject*The child*Was*made*Cry*By - Us%</item>
+        <item>%Our duties must be done by us.*Object + (shall/will)/may/must/should/ought to + be + Verb 3rd Form + Other + By-Subject*Our duties*Must*be done*No Need*By - Us%</item>
+        <item>%He was elected captain of our class by us.*Object + was/were +  verb-3rd Form + other + By-Subject*He*Was*elected*Captain of our class.*By - Us%</item>
+        <item>%Our country should be loved by us.*Object + (shall/will)/may/must/should/ought to + be + Verb 3rd Form + Other + By-Subject*Our country*Should*be loved*No Need*By - Us%</item>
+        <item>%Our elders should be respected by us.*Object + (shall/will)/may/must/should/ought to + be + Verb 3rd Form + Other + By-Subject*Our elders*Should*be respected*No Need*By - Us%</item>
+        <item>%The work must be finished by you.*Object + (shall/will)/may/must/should/ought to + be + Verb 3rd Form + Other + By-Subject*The work*Must*be finished*No Need*By - You%</item>
+        <item>%The answer must be written in ink by you.*Object + (shall/will)/may/must/should/ought to + be + Verb 3rd Form + Other + By-Subject*The answer*Must*be written*In ink*By - You%</item>
+        <item>%The answer must be written in ink by you.*Object + (shall/will)/may/must/should/ought to + be + Verb 3rd Form + Other + By-Subject*The answer*Must*be written*In ink*By - You%</item>
+        <item>%Your parents should be obeyed by you.*Object + (shall/will)/may/must/should/ought to + be + Verb 3rd Form + Other + By-Subject*Your parents*Should*be obeyed*No Need*By - You%</item>
+        <item>%This question should be raised now by you.*Object + (shall/will)/may/must/should/ought to + be + Verb 3rd Form + Other + By-Subject*This question*Should*be raised*No Need*By - You%</item>
+    </string-array>
+
+
+
+
+</resources>

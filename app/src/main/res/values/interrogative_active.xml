@@ -1,0 +1,818 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string-array name="interrogative_question_active">
+
+        <item>May he insult you?</item>
+        <item>Can I do this?</item>
+        <item>Must I fill in the form?</item>
+        <item>Must some one do it?</item>
+        <item>Must we do our duty?</item>
+        <item>Should we love our country?</item>
+        <item>Should we respect out elders?</item>
+        <item>Must You write the answer in ink?</item>
+        <item>Must you finish the work?</item>
+        <item>Should you raise this question now?</item>
+        <item>Should you obey your parents?</item>
+        <item>Has a thief stolen his clothes?</item>
+        <item>Did all his friends laugh at him?</item>
+        <item>Do children like sweets?</item>
+        <item>Has the teacher  appointed him captain?</item>
+        <item>Does Carelessness cause accidents?</item>
+        <item>Has Geeta invited us?</item>
+        <item>Will Gouri sen help you?</item>
+        <item>Has he written all the letters?</item>
+        <item>Has he written the poem?</item>
+        <item>Is he writing a letter?</item>
+        <item>Is he helping  the poors?</item>
+        <item>Does he read a book everyday?</item>
+        <item>Did he buy a pen?</item>
+        <item>Did he give me a pen?</item>
+        <item>Did he ask a question?</item>
+        <item>Did he makr a remarkable discovery?</item>
+        <item>Does he teache us English ?</item>
+        <item>Was he driving a new car?</item>
+        <item>Am I writing a letter?</item>
+        <item>Am I going to write an application?</item>
+        <item>Have I posted the letter?</item>
+        <item>Did I write a letter to the Headmaster?</item>
+        <item>Did I phone him yesterday?</item>
+        <item>Did I write that book?</item>
+        <item>Did I give her the coin?</item>
+        <item>Shall I learn the lesson ?</item>
+        <item>Did Lencho write a latter to God?</item>
+        <item>Does Mohan learn English?</item>
+        <item>Is Mother cooking rice?</item>
+        <item>Is Mr Das teaching me English?</item>
+        <item>Will Mr. John teach me next month English?</item>
+        <item>Did Mr. Saikia buy a new car last month?</item>
+        <item>Is My aunt cooking rice now?</item>
+        <item>Did My father write  a letter to the headmaster?</item>
+        <item>Did My friend give me a letter?</item>
+        <item>Did My friend send me an S.M.S?</item>
+        <item>Did my friend write this letter?</item>
+        <item>Did Our Principle preside over the meeting?</item>
+        <item>Does our teacher buy books every month?</item>
+        <item>Do People call him kalidas?</item>
+        <item>Did people establish this school in 1960?</item>
+        <item>Did Pramatta singha build the Ranghar?</item>
+        <item>Is she buying two sarees?</item>
+        <item>Does she expect good news ?</item>
+        <item>Are The boys playing cricket  today?</item>
+        <item>Are The boys playing cricket in the field ?</item>
+        <item>Did the carelesness of the driver cause the accident?</item>
+        <item>Is the doctor examining the patient?</item>
+        <item>Is the gardener watering the plants?</item>
+        <item>Did the girl kill the bird?</item>
+        <item>Was he girl writing a letter?</item>
+        <item>Did the hunter kill the tiger?</item>
+        <item>Will the manager give you a ticket?</item>
+        <item>Do the members select the president?</item>
+        <item>Did the news shock me?</item>
+        <item>Did The police arrest the culprits?</item>
+        <item>Is The postman delivering the letters?</item>
+        <item>Did the postman deliver letters every  morning?</item>
+        <item>Was the postman delivering the letters?</item>
+        <item>Did the students elect him secretary?</item>
+        <item>Did the students organise the programme?</item>
+        <item>Did the students decorate the stage?</item>
+        <item>Is The teacher correcting our copies?</item>
+        <item>Are they building a house?</item>
+        <item>Did They elect him president?</item>
+        <item>Did they ask him many questions?</item>
+        <item>Did they invite me to the party?</item>
+        <item>Did they ask the boy many questions?</item>
+        <item>Did we select him captain of our class?</item>
+        <item>Did we make him captain?</item>
+        <item>Did we make him captain of our team?</item>
+        <item>Did we make him chairman of the committee?</item>
+        <item>Did We make the child cry?</item>
+        <item>Did we discuss the matter thoroughly?</item>
+
+
+
+    </string-array>
+
+    <string-array name="interrogative_subject_active">
+        <item>He</item>
+        <item>I</item>
+        <item>I</item>
+        <item>Some one</item>
+        <item>We</item>
+        <item>We</item>
+        <item>We</item>
+        <item>You</item>
+        <item>You</item>
+        <item>You</item>
+        <item>You</item>
+        <item>A Thief</item>
+        <item>All his friends</item>
+        <item>Children</item>
+        <item>The teacher</item>
+        <item>Carelessness</item>
+        <item>Geeta</item>
+        <item>Gouri Sen</item>
+        <item>He</item>
+        <item>He</item>
+        <item>He</item>
+        <item>He</item>
+        <item>He</item>
+        <item>He</item>
+        <item>He</item>
+        <item>He</item>
+        <item>He</item>
+        <item>He</item>
+        <item>He</item>
+        <item>I</item>
+        <item>I</item>
+        <item>I</item>
+        <item>I</item>
+        <item>I</item>
+        <item>I</item>
+        <item>I</item>
+        <item>I</item>
+        <item>Lencho</item>
+        <item>Mohan</item>
+        <item>Mother</item>
+        <item>Mr Das</item>
+        <item>Mr John</item>
+        <item>Mr. Saikia</item>
+        <item>My aunt</item>
+        <item>My father</item>
+        <item>My friend</item>
+        <item>My friend</item>
+        <item>My friend</item>
+        <item>Our principle</item>
+        <item>Our teacher</item>
+        <item>People</item>
+        <item>People</item>
+        <item>Pramatta Singha</item>
+        <item>She</item>
+        <item>She</item>
+        <item>The boys</item>
+        <item>The boys</item>
+        <item>The carelesness of the driver</item>
+        <item>The doctor</item>
+        <item>The gardener</item>
+        <item>The girl</item>
+        <item>The girl</item>
+        <item>The hunter</item>
+        <item>The manager</item>
+        <item>The members</item>
+        <item>The news</item>
+        <item>The police</item>
+        <item>The post man</item>
+        <item>The post man</item>
+        <item>The post man</item>
+        <item>The students</item>
+        <item>The students</item>
+        <item>The students</item>
+        <item>The teacher</item>
+        <item>They</item>
+        <item>They</item>
+        <item>They</item>
+        <item>They</item>
+        <item>They</item>
+        <item>We</item>
+        <item>We</item>
+        <item>We</item>
+        <item>We</item>
+        <item>We</item>
+        <item>We</item>
+
+
+    </string-array>
+    <string-array name="interrogative_helpingVerb_active">
+        <item>May</item>
+        <item>Can</item>
+        <item>Must</item>
+        <item>Must</item>
+        <item>Must</item>
+        <item>Should</item>
+        <item>Should</item>
+        <item>Must</item>
+        <item>Must</item>
+        <item>Should</item>
+        <item>Should</item>
+        <item>Has</item>
+        <item>Did</item>
+        <item>Do</item>
+        <item>Has</item>
+        <item>Does</item>
+        <item>Has</item>
+        <item>Will</item>
+        <item>Has</item>
+        <item>Has</item>
+        <item>Is</item>
+        <item>Is</item>
+        <item>Does</item>
+        <item>Did</item>
+        <item>Did</item>
+        <item>Did</item>
+        <item>Did</item>
+        <item>Does</item>
+        <item>Was</item>
+        <item>Am</item>
+        <item>Am</item>
+        <item>Have</item>
+        <item>Did</item>
+        <item>Did</item>
+        <item>Did</item>
+        <item>Did</item>
+        <item>Shall</item>
+        <item>Did</item>
+        <item>Does</item>
+        <item>Is</item>
+        <item>Is</item>
+        <item>Will</item>
+        <item>Did</item>
+        <item>Is</item>
+        <item>Did</item>
+        <item>Did</item>
+        <item>Did</item>
+        <item>Did</item>
+        <item>Did</item>
+        <item>Does</item>
+        <item>Do</item>
+        <item>Did</item>
+        <item>Did</item>
+        <item>Is</item>
+        <item>Does</item>
+        <item>Are</item>
+        <item>Are</item>
+        <item>Did</item>
+        <item>Is</item>
+        <item>Is</item>
+        <item>Did</item>
+        <item>Was</item>
+        <item>Did</item>
+        <item>Will</item>
+        <item>Do</item>
+        <item>Did</item>
+        <item>Did</item>
+        <item>Is</item>
+        <item>Did</item>
+        <item>Was</item>
+        <item>Did</item>
+        <item>Did</item>
+        <item>Did</item>
+        <item>Is</item>
+        <item>Are</item>
+        <item>Did</item>
+        <item>Did</item>
+        <item>Did</item>
+        <item>Did</item>
+        <item>Did</item>
+        <item>Did</item>
+        <item>Did</item>
+        <item>Did</item>
+        <item>Did</item>
+        <item>Did</item>
+
+
+    </string-array>
+    <string-array name="interrogative_verb_active">
+        <item>insult</item>
+        <item>do</item>
+        <item>fill in</item>
+        <item>do</item>
+        <item>do</item>
+        <item>love</item>
+        <item>respect</item>
+        <item>write</item>
+        <item>finish</item>
+        <item>raise</item>
+        <item>obey</item>
+        <item>stolen</item>
+        <item>laugh at</item>
+        <item>like</item>
+        <item>appointed</item>
+        <item>cause</item>
+        <item>invited</item>
+        <item>help</item>
+        <item>written</item>
+        <item>written</item>
+        <item>writing</item>
+        <item>helping</item>
+        <item>read</item>
+        <item>buy</item>
+        <item>give</item>
+        <item>ask</item>
+        <item>make</item>
+        <item>teach</item>
+        <item>driving</item>
+        <item>writing</item>
+        <item>going</item>
+        <item>posted</item>
+        <item>write</item>
+        <item>phone</item>
+        <item>write</item>
+        <item>give</item>
+        <item>learn</item>
+        <item>write</item>
+        <item>learn</item>
+        <item>cooking</item>
+        <item>teaching</item>
+        <item>teach</item>
+        <item>buy</item>
+        <item>cooking</item>
+        <item>write</item>
+        <item>give</item>
+        <item>send</item>
+        <item>write</item>
+        <item>preside over</item>
+        <item>buy</item>
+        <item>call</item>
+        <item>establish</item>
+        <item>build</item>
+        <item>buying</item>
+        <item>expect</item>
+        <item>playing</item>
+        <item>playing</item>
+        <item>cause</item>
+        <item>examining</item>
+        <item>watering</item>
+        <item>kill</item>
+        <item>writing</item>
+        <item>kill</item>
+        <item>give</item>
+        <item>select</item>
+        <item>shock</item>
+        <item>arrest</item>
+        <item>delivering</item>
+        <item>deliver</item>
+        <item>delivering</item>
+        <item>elect</item>
+        <item>organise</item>
+        <item>decorate</item>
+        <item>correcting</item>
+        <item>building</item>
+        <item>elect</item>
+        <item>ask</item>
+        <item>invite</item>
+        <item>ask</item>
+        <item>select</item>
+        <item>make</item>
+        <item>make</item>
+        <item>make</item>
+        <item>make</item>
+        <item>discuss</item>
+
+
+    </string-array>
+
+    <string-array name="interrogative_otherPart_active">
+        <item>No Need</item>
+        <item>No Need</item>
+        <item>No Need</item>
+        <item>No Other Part</item>
+        <item>No Other Part</item>
+        <item>No Need</item>
+        <item>No Need</item>
+        <item>In ink</item>
+        <item>No Need</item>
+        <item>Now</item>
+        <item>No Need</item>
+        <item>No Other Part</item>
+        <item>No Other Part</item>
+        <item>No Other Part</item>
+        <item>Captain</item>
+        <item>No Other Part</item>
+        <item>No Other Part</item>
+        <item>No Other Part</item>
+        <item>No Other Part</item>
+        <item>No Other Part</item>
+        <item>No Other Part</item>
+        <item>No Other Part</item>
+        <item>Every day</item>
+        <item>No Other Part</item>
+        <item>Me</item>
+        <item>No Other Part</item>
+        <item>No Other Part</item>
+        <item>English</item>
+        <item>No Other Part</item>
+        <item>No Other Part</item>
+        <item>To write</item>
+        <item>No Other Part</item>
+        <item>To the Head master</item>
+        <item>yesterday</item>
+        <item>No Other Part</item>
+        <item>her</item>
+        <item>No Other Part</item>
+        <item>To God</item>
+        <item>No Other Part</item>
+        <item>No Other Part</item>
+        <item>English</item>
+        <item>English next month</item>
+        <item>Last month</item>
+        <item>Now</item>
+        <item>To the Head master</item>
+        <item>Me</item>
+        <item>me</item>
+        <item>No Other Part</item>
+        <item>No Other Part</item>
+        <item>Every month</item>
+        <item>Kalidas</item>
+        <item>In 1960</item>
+        <item>No Other Part</item>
+        <item>No Other Part</item>
+        <item>No Other Part</item>
+        <item>Today</item>
+        <item>In the field</item>
+        <item>No Other Part</item>
+        <item>No Other Part</item>
+        <item>No Other Part</item>
+        <item>No Other Part</item>
+        <item>No Other Part</item>
+        <item>No Other Part</item>
+        <item>you</item>
+        <item>No Other Part</item>
+        <item>No Other Part</item>
+        <item>No Other Part</item>
+        <item>No Other Part</item>
+        <item>Every month</item>
+        <item>No Other Part</item>
+        <item>Secretary</item>
+        <item>No Other Part</item>
+        <item>No Other Part</item>
+        <item>No Other Part</item>
+        <item>No Other Part</item>
+        <item>President</item>
+        <item>Him</item>
+        <item>To the party</item>
+        <item>Many questions</item>
+        <item>Captain of our class</item>
+        <item>Captain</item>
+        <item>Captain of our team</item>
+        <item>Chairman of the committee</item>
+        <item>Cry</item>
+        <item>Thoroughly</item>
+
+    </string-array>
+
+    <string-array name="interrogative_object_active">
+        <item>You</item>
+        <item>This</item>
+        <item>The form</item>
+        <item>It</item>
+        <item>Our duty</item>
+        <item>Our country</item>
+        <item>Our elders</item>
+        <item>The answer</item>
+        <item>The work</item>
+        <item>This question</item>
+        <item>Your parents</item>
+        <item>His clothes</item>
+        <item>Him</item>
+        <item>Sweets</item>
+        <item>Him</item>
+        <item>Accidents</item>
+        <item>Us</item>
+        <item>You</item>
+        <item>All the letters</item>
+        <item>The poem</item>
+        <item>A letter</item>
+        <item>The poors</item>
+        <item>A book</item>
+        <item>A pen</item>
+        <item>A pen</item>
+        <item>A question</item>
+        <item>A remarkable discovery</item>
+        <item>Us</item>
+        <item>A new car</item>
+        <item>A letter</item>
+        <item>An application</item>
+        <item>The letter</item>
+        <item>A letter</item>
+        <item>Him</item>
+        <item>That book</item>
+        <item>The coin</item>
+        <item>The lesson</item>
+        <item>A letter</item>
+        <item>English</item>
+        <item>Rice</item>
+        <item>Me</item>
+        <item>Me</item>
+        <item>A new car</item>
+        <item>Rice</item>
+        <item>A letter</item>
+        <item>A letter</item>
+        <item>An S.M.S</item>
+        <item>This letter</item>
+        <item>The meeting</item>
+        <item>Books</item>
+        <item>Him</item>
+        <item>This school</item>
+        <item>The Ranghar</item>
+        <item>Two sarees</item>
+        <item>Good news</item>
+        <item>Cricket</item>
+        <item>Cricket</item>
+        <item>The accident</item>
+        <item>The patient</item>
+        <item>The plants</item>
+        <item>The bird</item>
+        <item>A letter</item>
+        <item>The tiger</item>
+        <item>A ticker</item>
+        <item>President</item>
+        <item>Me</item>
+        <item>The Culpits</item>
+        <item>The letters</item>
+        <item>Letters</item>
+        <item>The letters</item>
+        <item>Him</item>
+        <item>The programme</item>
+        <item>The stage</item>
+        <item>Our copies</item>
+        <item>A house</item>
+        <item>Him</item>
+        <item>Many questions</item>
+        <item>Me</item>
+        <item>The boy</item>
+        <item>Him</item>
+        <item>Him</item>
+        <item>Him</item>
+        <item>Him</item>
+        <item>The child</item>
+        <item>The matter</item>
+
+    </string-array>
+    <string-array name="interrogative_serial_active">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+        <item>31</item>
+        <item>32</item>
+        <item>33</item>
+        <item>34</item>
+        <item>35</item>
+        <item>36</item>
+        <item>37</item>
+        <item>38</item>
+        <item>39</item>
+        <item>40</item>
+        <item>41</item>
+        <item>42</item>
+        <item>43</item>
+        <item>44</item>
+        <item>45</item>
+        <item>46</item>
+        <item>47</item>
+        <item>48</item>
+        <item>49</item>
+        <item>50</item>
+        <item>51</item>
+        <item>52</item>
+        <item>53</item>
+        <item>54</item>
+        <item>55</item>
+        <item>56</item>
+        <item>57</item>
+        <item>58</item>
+        <item>59</item>
+        <item>60</item>
+        <item>61</item>
+        <item>62</item>
+        <item>63</item>
+        <item>64</item>
+        <item>65</item>
+        <item>66</item>
+        <item>67</item>
+        <item>68</item>
+        <item>69</item>
+        <item>70</item>
+        <item>71</item>
+        <item>72</item>
+        <item>73</item>
+        <item>74</item>
+        <item>75</item>
+        <item>76</item>
+        <item>77</item>
+        <item>78</item>
+        <item>79</item>
+        <item>80</item>
+        <item>81</item>
+        <item>82</item>
+        <item>83</item>
+        <item>84</item>
+        <item>85</item>
+
+
+    </string-array>
+
+    <string-array name="interrogative_structure_active">
+
+        <item>(shall/will)/can/may/must/should/ought to + Subject + Verb 1st Form + Other + Object?</item>
+        <item>(shall/will)/can/may/must/should/ought to + Subject + Verb 1st Form + Other + Object?</item>
+        <item>(shall/will)/can/may/must/should/ought to + Subject + Verb 1st Form + Other + Object?</item>
+        <item>(shall/will)/can/may/must/should/ought to + Subject + Verb 1st Form + Other + Object?</item>
+        <item>(shall/will)/can/may/must/should/ought to + Subject + Verb 1st Form + Other + Object?</item>
+        <item>(shall/will)/can/may/must/should/ought to + Subject + Verb 1st Form + Other + Object?</item>
+        <item>(shall/will)/can/may/must/should/ought to + Subject + Verb 1st Form + Other + Object?</item>
+        <item>(shall/will)/can/may/must/should/ought to + Subject + Verb 1st Form + Other + Object?</item>
+        <item>(shall/will)/can/may/must/should/ought to + Subject + Verb 1st Form + Other + Object?</item>
+        <item>(shall/will)/can/may/must/should/ought to + Subject + Verb 1st Form + Other + Object?</item>
+        <item>(shall/will)/can/may/must/should/ought to + Subject + Verb 1st Form + Other + Object?</item>
+        <item>Have/has/had + Subject +verb 3rd Form+ other + Object?</item>
+        <item>Did + Subject + Verb 1st Form + Other + Object?</item>
+        <item>Do + Subject + Verb 1st Form + Other + Object?</item>
+        <item>Have/has/had + Subject +verb 3rd Form+ other + Object?</item>
+        <item>Does + Subject + Verb 1st Form + Other + Object?</item>
+        <item>Have/has/had + Subject +verb 3rd Form+ other + Object?</item>
+        <item>(shall/will)/can/may/must/should/ought to + Subject + Verb 1st Form + Other + Object?</item>
+        <item>Have/has/had + Subject +verb 3rd Form+ other + Object?</item>
+        <item>Have/has/had + Subject +verb 3rd Form+ other + Object?</item>
+        <item>Is/am/are + Subject + verb-ing + other + Object?</item>
+        <item>Is/am/are + Subject + verb-ing + other + Object?</item>
+        <item>Does + Subject + Verb 1st Form + Other + Object?</item>
+        <item>Did + Subject + Verb 1st Form + Other + Object?</item>
+        <item>Did + Subject + Verb 1st Form + Other + Object?</item>
+        <item>Did + Subject + Verb 1st Form + Other + Object?</item>
+        <item>Did + Subject + Verb 1st Form + Other + Object?</item>
+        <item>Does + Subject + Verb 1st Form + Other + Object?</item>
+        <item>Was/were + Subject + verb-ing + other + Object?</item>
+        <item>Is/am/are + Subject + verb-ing + other + Object?</item>
+        <item>Is/am/are + Subject + verb-ing + other + Object?</item>
+        <item>Have/has/had + Subject +verb 3rd Form+ other + Object?</item>
+        <item>Did + Subject + Verb 1st Form + Other + Object?</item>
+        <item>Did + Subject + Verb 1st Form + Other + Object?</item>
+        <item>Did + Subject + Verb 1st Form + Other + Object?</item>
+        <item>Did + Subject + Verb 1st Form + Other + Object?</item>
+        <item>(shall/will)/can/may/must/should/ought to + Subject + Verb 1st Form + Other + Object?</item>
+        <item>Did + Subject + Verb 1st Form + Other + Object?</item>
+        <item>Does + Subject + Verb 1st Form + Other + Object?</item>
+        <item>Is/am/are + Subject + verb-ing + other + Object?</item>
+        <item>Is/am/are + Subject + verb-ing + other + Object?</item>
+        <item>(shall/will)/can/may/must/should/ought to + Subject + Verb 1st Form + Other + Object?</item>
+        <item>Did + Subject + Verb 1st Form + Other + Object?</item>
+        <item>Is/am/are + Subject + verb-ing + other + Object?</item>
+        <item>Did + Subject + Verb 1st Form + Other + Object?</item>
+        <item>Did + Subject + Verb 1st Form + Other + Object?</item>
+        <item>Did + Subject + Verb 1st Form + Other + Object?</item>
+        <item>Did + Subject + Verb 1st Form + Other + Object?</item>
+        <item>Did + Subject + Verb 1st Form + Other + Object?</item>
+        <item>Does + Subject + Verb 1st Form + Other + Object?</item>
+        <item>Do + Subject + Verb 1st Form + Other + Object?</item>
+        <item>Did + Subject + Verb 1st Form + Other + Object?</item>
+        <item>Did + Subject + Verb 1st Form + Other + Object?</item>
+        <item>Is/am/are + Subject + verb-ing + other + Object?</item>
+        <item>Does + Subject + Verb 1st Form + Other + Object?</item>
+        <item>Is/am/are + Subject + verb-ing + other + Object?</item>
+        <item>Is/am/are + Subject + verb-ing + other + Object?</item>
+        <item>Did + Subject + Verb 1st Form + Other + Object?</item>
+        <item>Is/am/are + Subject + verb-ing + other + Object?</item>
+        <item>Is/am/are + Subject + verb-ing + other + Object?</item>
+        <item>Did + Subject + Verb 1st Form + Other + Object?</item>
+        <item>Was/were + Subject + verb-ing + other + Object?</item>
+        <item>Did + Subject + Verb 1st Form + Other + Object?</item>
+        <item>(shall/will)/can/may/must/should/ought to + Subject + Verb 1st Form + Other + Object?</item>
+        <item>Does + Subject + Verb 1st Form + Other + Object?</item>
+        <item>Did + Subject + Verb 1st Form + Other + Object?</item>
+        <item>Did + Subject + Verb 1st Form + Other + Object?</item>
+        <item>Is/am/are + Subject + verb-ing + other + Object?</item>
+        <item>Did + Subject + Verb 1st Form + Other + Object?</item>
+        <item>Was/were + Subject + verb-ing + other + Object?</item>
+        <item>Did + Subject + Verb 1st Form + Other + Object?</item>
+        <item>Did + Subject + Verb 1st Form + Other + Object?</item>
+        <item>Did + Subject + Verb 1st Form + Other + Object?</item>
+        <item>Is/am/are + Subject + verb-ing + other + Object?</item>
+        <item>Is/am/are + Subject + verb-ing + other + Object?</item>
+        <item>Did + Subject + Verb 1st Form + Other + Object?</item>
+        <item>Did + Subject + Verb 1st Form + Other + Object?</item>
+        <item>Did + Subject + Verb 1st Form + Other + Object?</item>
+        <item>Did + Subject + Verb 1st Form + Other + Object?</item>
+        <item>Did + Subject + Verb 1st Form + Other + Object?</item>
+        <item>Did + Subject + Verb 1st Form + Other + Object?</item>
+        <item>Did + Subject + Verb 1st Form + Other + Object?</item>
+        <item>Did + Subject + Verb 1st Form + Other + Object?</item>
+        <item>Did + Subject + Verb 1st Form + Other + Object?</item>
+        <item>Did + Subject + Verb 1st Form + Other + Object?</item>
+
+
+    </string-array>
+
+
+
+    <string-array name="interrogative_answer_active">
+        <item>May you be insulted by you?*(shall/will)/can/may/must/should/ought to - be + Object + Verb 3rd Form + Other + by - subject?*May*You*be insulted*No Need*By - You</item>
+        <item>Can this be done by me?*(shall/will)/can/may/must/should/ought to - be + Object + Verb 3rd Form + Other + by - subject?*Can*This*be done*No Need*By - Me</item>
+        <item>Must the form be filled in by me?*(shall/will)/can/may/must/should/ought to - be + Object + Verb 3rd Form + Other + by - subject?*Must*The form*be filled*No Need*By - Me</item>
+        <item>Must it be done by some one?*(shall/will)/can/may/must/should/ought to - be + Object + Verb 3rd Form + Other + by - subject?*Must*It*be done*No Need*By - Some one</item>
+        <item>Must our duties be done by us?*(shall/will)/can/may/must/should/ought to - be + Object + Verb 3rd Form + Other + by - subject?*Must*Our duties*be done*No Need*By - Us</item>
+        <item>Should our country be loved by us?*(shall/will)/can/may/must/should/ought to - be + Object + Verb 3rd Form + Other + by - subject?*Should*Our country*be loved*No Need*By - Us</item>
+        <item>Should our elders be respected by us?*(shall/will)/can/may/must/should/ought to - be + Object + Verb 3rd Form + Other + by - subject?*Should*Our elders*be respected*No Need*By - Us</item>
+        <item>Must the answer be written in ink by you?*(shall/will)/can/may/must/should/ought to - be + Object + Verb 3rd Form + Other + by - subject?*Must*The answer*be written*In ink*By - You</item>
+        <item>Must the work be finished by you?*(shall/will)/can/may/must/should/ought to - be + Object + Verb 3rd Form + Other + by - subject?*Must*The work*be finished*No Need*By - You</item>
+        <item>Should this question be raised now by you?*(shall/will)/can/may/must/should/ought to - be + Object + Verb 3rd Form + Other + by - subject?*Should*This question*be raised*Now*By - You</item>
+        <item>Should your parents be obeyed by you?*(shall/will)/can/may/must/should/ought to - be + Object + Verb 3rd Form + Other + by - subject?*Should*Your parents*be obeyed*No Need*By - You</item>
+        <item>Have his clothes been stolen by a thief?*Have/has/had + Object + been + Verb 3rd Form+ other + By-Subject?*Have*His clothes*been stolen*No Need*By - Thief</item>
+        <item>Was he laughed at by all his friends?*Was/were + Object + verb-3rd Form + other + By-Subject?*Was*He*laughed at*No Need*By - All his friends</item>
+        <item>Are sweets liked by Children?*Is/am/are + Object + verb-3rd Form + other + By-Subject?*Are*Sweets*liked*No Need*By - Children</item>
+        <item>Has he been appointed captain by the teacher?*Have/has/had + Object + been + Verb 3rd Form+ other + By-Subject?*Has*He*been appointed*Captain*By - the teacher</item>
+        <item>Are the accidents caused by carelessness?*Is/am/are + Object + verb-3rd Form + other + By-Subject?*Are*The accident*caused*No Need*By - Carelessness</item>
+        <item>Have we been invited by Geeta?*Have/has/had + Object + been + Verb 3rd Form+ other + By-Subject?*Have*We*been invited*No Need*By - Geeta</item>
+        <item>Will you be helped by Gouri sen?*(shall/will)/can/may/must/should/ought to - be + Object + Verb 3rd Form + Other + by - subject?*Will*You*be helped*No Need*By - Gouri Sen</item>
+        <item>Have all the letters been written by him?*Have/has/had + Object + been + Verb 3rd Form+ other + By-Subject?*Have*All the letters*been written*No Need*By - Him</item>
+        <item>Has the poem been written by him?*Have/has/had + Object + been + Verb 3rd Form+ other + By-Subject?*Has*The poem*been written*No Need*By - Him</item>
+        <item>Is a letter being written by him?*Is/am/are + Object + being + verb 3rd form + other + By-Subject?*Is*A letter*being written*No Need*By - Him</item>
+        <item>Are the poors being helped by him?*Is/am/are + Object + being + verb 3rd form + other + By-Subject?*Are*The poor*being helped*No Need*By - Him</item>
+        <item>Is a book read everyday by him?*Is/am/are + Object + verb-3rd Form + other + By-Subject?*Is*A book*read*Every day*By - Him</item>
+        <item>Was a pen bought by him?*Was/were + Object + verb-3rd Form + other + By-Subject?*Was*A pen*bought*No Need*By - Him</item>
+        <item>Was a pen given to me by him?*Was/were + Object + verb-3rd Form + other + By-Subject?*Was*A pen*given*To me*By - Him</item>
+        <item>Was a question asked by him?*Was/were + Object + verb-3rd Form + other + By-Subject?*Was*A question*asked*No Need*By - Him</item>
+        <item>Was a remarkable discovery made by him?*Was/were + Object + verb-3rd Form + other + By-Subject?*was*A remarkable discovery*made*No Need*By - Him</item>
+        <item>Are we taught English by him?*Is/am/are + Object + verb-3rd Form + other + By-Subject?*Are*We*taught*English*By - Him</item>
+        <item>Was a new car being drove by him?*Was/were + Object + being + verb 3rd form + other + By-Subject?*Was*A new car*being drove*No Need*By - Him</item>
+        <item>Is a letter being written by me?*Is/am/are + Object + being + verb 3rd form + other + By-Subject?*is*A letter*being written*No Need*By - Me</item>
+        <item>Is an application going to be written by me?*Is/am/are + Object + being + verb 3rd form + other + By-Subject?*Is*An application*going to be written*No Need*By - Me</item>
+        <item>Has the letter been posted by me?*Have/has/had + Object + been + Verb 3rd Form+ other + By-Subject?*Has*The letter*been posted*No Need*By - Me</item>
+        <item>Was letter written to the Headmaster by me?*Was/were + Object + verb-3rd Form + other + By-Subject?*Was*A letter*written*To the Head master*By - Me</item>
+        <item>Was he phoned yesterday by me?*Was/were + Object + verb-3rd Form + other + By-Subject?*Was*He*phoned*Yesterday*By - Me</item>
+        <item>Was that book written by me?*Was/were + Object + verb-3rd Form + other + By-Subject?*Was*That book*written*No Need*By - Me</item>
+        <item>Was the coin given to her by me?*Was/were + Object + verb-3rd Form + other + By-Subject?*Was*The coin*given*To her*By - Me</item>
+        <item>Will the lesson be learnt by me ?*(shall/will)/can/may/must/should/ought to - be + Object + Verb 3rd Form + Other + by - subject?*Will*The lesson*be learnt*No Need*By - Me</item>
+        <item>Was a latter written to God by Leneho?*Was/were + Object + verb-3rd Form + other + By-Subject?*Was*A letter*written*To God*By - Lencho</item>
+        <item>Is English learnt by Mohan?*Is/am/are + Object + verb-3rd Form + other + By-Subject?*Is*English*learnt*No Need*By - Mohan</item>
+        <item>Is rice being cooked by mother?*Is/am/are + Object + being + verb 3rd form + other + By-Subject?*Is*Rice*being cooked*No Need*By - Mother</item>
+        <item>Am I being taught English by Mr. Das?*Is/am/are + Object + being + verb 3rd form + other + By-Subject?*Am*I*being taught*English*By - Mr Das</item>
+        <item>Shall I be taught English next month by Mr. john?*(shall/will)/can/may/must/should/ought to - be + Object + Verb 3rd Form + Other + by - subject?*Shall*I*be taught*English next month*By - Mr John</item>
+        <item>Was a new car bought last month by Mr Saikia?*Was/were + Object + verb-3rd Form + other + By-Subject?*Was*A new car*bought*Last month*By - Mr. Saikia</item>
+        <item>Is rice being cooked now by my aunt?*Is/am/are + Object + being + verb 3rd form + other + By-Subject?*Is*Rice*being cooked*Now*By - My aunt</item>
+        <item>Was a letter written to the headmaster by my father?*Was/were + Object + verb-3rd Form + other + By-Subject?*Was*A letter*written*To the Head master*By - My father</item>
+        <item>Was a latter given to me by my friend?*Was/were + Object + verb-3rd Form + other + By-Subject?*Was*A letter*given*to me*By - My friend</item>
+        <item>Was an S. M. S. sent to me by my friend ?*Was/were + Object + verb-3rd Form + other + By-Subject?*Was*An S.M.S*sent*To me*By - My friend</item>
+        <item>Was this letter written by my friend?*Was/were + Object + verb-3rd Form + other + By-Subject?*Was*This letter*written*No Need*By - My friend</item>
+        <item>Was the meeting presided over by our principle?*Was/were + Object + verb-3rd Form + other + By-Subject?*Was*The meeting*presided over*No Need*By - Our principle</item>
+        <item>Are books bought every month by our teacher?*Is/am/are + Object + verb-3rd Form + other + By-Subject?*Are*Books*bought*Every Month*By - Our teacher</item>
+        <item>Is he called kalidas by people?*Is/am/are + Object + verb-3rd Form + other + By-Subject?*Is*He*called*Kalidas*By - People</item>
+        <item>Was this school established in 1960 by people?*Was/were + Object + verb-3rd Form + other + By-Subject?*Was*This school*established*In 1960*By - People</item>
+        <item>Was Ranghar built by pramatta singha?*Was/were + Object + verb-3rd Form + other + By-Subject?*Was*Ranghar*built*No Need*By - Pramatta Singha</item>
+        <item>Are two sarees being bought by her?*Is/am/are + Object + being + verb 3rd form + other + By-Subject?*Are*Two sarees*being bought*No Need*By - Her</item>
+        <item>Is good news expected by her?*Is/am/are + Object + verb-3rd Form + other + By-Subject?*Is*Good news*expected*No Need*By - Her</item>
+        <item>Is cricket being played today by the boys?*Is/am/are + Object + being + verb 3rd form + other + By-Subject?*Is*Cricket*being played*today*By - The boys</item>
+        <item>Is cricket being played in the field by the boys?*Is/am/are + Object + being + verb 3rd form + other + By-Subject?*Is*Cricket*being played*In the field*By - The boys</item>
+        <item>Was the accident caused by the carelessness of the driver?*Was/were + Object + verb-3rd Form + other + By-Subject?*Was*The accident*caused*No Need*By - The carelesness of the driver</item>
+        <item>Is the patient being examined by the doctor?*Is/am/are + Object + being + verb 3rd form + other + By-Subject?*Is*The patient*being examined*No Need*By - The doctor</item>
+        <item>Are the plants being watered by the gardener?*Is/am/are + Object + being + verb 3rd form + other + By-Subject?*Are*The plants*being watered*No Need*By - The gardener</item>
+        <item>Was the bird killed by the girl?*Was/were + Object + verb-3rd Form + other + By-Subject?*Was*The bird*killed*No Need*By - The girl</item>
+        <item>Was a letter being written by the girl?*Was/were + Object + being + verb 3rd form + other + By-Subject?*Was*A letter*being written*No Need*By - The girl</item>
+        <item>Was the tiger killed by the hunter?*Was/were + Object + verb-3rd Form + other + By-Subject?*Was*The tiger*killed*No Need*By - The hunter</item>
+        <item>Will a ticket be given to you by the manager?*(shall/will)/can/may/must/should/ought to - be + Object + Verb 3rd Form + Other + by - subject?*Will*A ticket*be given*To you*By - The manager</item>
+        <item>Is the president selected by the members?*Is/am/are + Object + verb-3rd Form + other + By-Subject?*Is*President*selected*No Need*By - The members</item>
+        <item>Was I shocked at the news?*Was/were + Object + verb-3rd Form + other + By-Subject?*Was*I*shocked*No Need*At-the news</item>
+        <item>Were the culprits arrested by the police?*Was/were + Object + verb-3rd Form + other + By-Subject?*Were*The culpits*arrested*No Need*By - The police</item>
+        <item>Are the letters being delivered by the postman?*Is/am/are + Object + being + verb 3rd form + other + By-Subject?*Are*The letters*being delevered*No Need*By - The post man</item>
+        <item>Are letters delivered every morning by the postman?*Was/were + Object + verb-3rd Form + other + By-Subject?*Are*Letters*delevered*Every morning*By - The post man</item>
+        <item>Were the letters being delivered by the post man?*Was/were + Object + being + verb 3rd form + other + By-Subject?*Were*The letters*being delevered*No Need*By - The letter</item>
+        <item>Was he elected secretary by the students?*Was/were + Object + verb-3rd Form + other + By-Subject?*Was*He*elected*Secretary*By - The students</item>
+        <item>Was the programme organised by the students?*Was/were + Object + verb-3rd Form + other + By-Subject?*Was*The programme*organised*No Need*By - The students</item>
+        <item>Was the stage decorated by the students?*Was/were + Object + verb-3rd Form + other + By-Subject?*Was*The stage*decorated*No Need*By - The students</item>
+        <item>Are our copies being corrected by the teacher?*Is/am/are + Object + being + verb 3rd form + other + By-Subject?*Are*Our copies*being corrected*No Need*By - The teacher</item>
+        <item>Is a house being built by them?*Is/am/are + Object + being + verb 3rd form + other + By-Subject?*Is*A house*being buit*No Need*By - Them</item>
+        <item>Was he elected president by them?*Was/were + Object + verb-3rd Form + other + By-Subject?*Was*He*elected*President*By - Them</item>
+        <item>Were many questions asked him by them?*Was/were + Object + verb-3rd Form + other + By-Subject?*Were*Many questions*asked*No Need*By - Them</item>
+        <item>Was I invited to the party by them?*Was/were + Object + verb-3rd Form + other + By-Subject?*Was*I*invited*To the party*By - Them</item>
+        <item>Was the boy asked many questions by them?*Was/were + Object + verb-3rd Form + other + By-Subject?*Was*The boy*asked*Many questions*By - Them</item>
+        <item>Was he selected captain of our class by us?*Was/were + Object + verb-3rd Form + other + By-Subject?*Was*He*Selected*Captain of our class.*By - Us</item>
+        <item>Was he made captain by us?*Was/were + Object + verb-3rd Form + other + By-Subject?*Was*He*made*Captain*By - Us</item>
+        <item>Was he made captain of our team by us?*Was/were + Object + verb-3rd Form + other + By-Subject?*Was*He*made*Captain of our team*By - Us</item>
+        <item>Was he made chairman of the committee by us?*Was/were + Object + verb-3rd Form + other + By-Subject?*Was*He*made*Chairman of the committee*By - Us</item>
+        <item>Was the child made cry by us?*Was/were + Object + verb-3rd Form + other + By-Subject?*Was*The child*made*Cry*By - Us</item>
+        <item>Was the matter discussed thoroughly by us?*Was/were + Object + verb-3rd Form + other + By-Subject?*Was*The matter*discussed*Thoroughly*By - Us</item>
+
+
+    </string-array>
+
+
+
+
+</resources>
