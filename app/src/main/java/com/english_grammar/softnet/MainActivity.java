@@ -1354,6 +1354,7 @@ public class MainActivity extends AppCompatActivity {
         Intent intent=new Intent(this,MainActivity.class);
         startActivity(intent);
 
+
     }
     public void showads(){
         Toast.makeText(this, "Loading", Toast.LENGTH_SHORT).show();
