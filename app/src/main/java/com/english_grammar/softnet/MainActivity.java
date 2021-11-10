@@ -14,7 +14,6 @@ import android.os.CountDownTimer;
 import android.speech.tts.TextToSpeech;
 import android.util.Log;
 import android.view.View;
-import android.view.ViewGroup;
 import android.view.WindowManager;
 import android.view.animation.Animation;
 import android.view.animation.AnimationUtils;
@@ -35,10 +34,6 @@ import com.facebook.ads.InterstitialAd;
 import com.facebook.ads.InterstitialAdListener;
 import com.getkeepsafe.taptargetview.TapTarget;
 import com.getkeepsafe.taptargetview.TapTargetView;
-import com.unity3d.ads.IUnityAdsListener;
-import com.unity3d.ads.UnityAds;
-import com.unity3d.services.banners.IUnityBannerListener;
-import com.unity3d.services.banners.UnityBanners;
 
 import java.util.Locale;
 
@@ -83,7 +78,6 @@ public class MainActivity extends AppCompatActivity {
     private int zoom_int3=0;
     private int pos=0;
     private int d1=0;
-    private TextView show_ads;
     private int position_int=0;
     private int check_box_int=0;
     private MediaPlayer play;
@@ -116,12 +110,6 @@ public class MainActivity extends AppCompatActivity {
     private AdView adView;
     private InterstitialAd interstitialAd;
     private final String TAG = InterstitialAdActivity.class.getSimpleName();
-
-    private String game_id="4408557";
-    private String bannerPlasement="Banner_Android";
-    private String intastialPlasement="Interstitial_Android";
-    private String rewardPlasement="Rewarded_Android";
-    private boolean testMode=false;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -164,7 +152,6 @@ public class MainActivity extends AppCompatActivity {
         tap_button=findViewById(R.id.buttonss);
         check_btn=findViewById(R.id.checkbutton);
         question_tt=findViewById(R.id.textView36);
-        show_ads=findViewById(R.id.textView3x);
 
 
 
@@ -213,140 +200,23 @@ public class MainActivity extends AppCompatActivity {
         lt5=findViewById(R.id.textView28);
         lt6=findViewById(R.id.textView29);
 
-//        adView = new AdView(this, "350189448938955_363782384246328", AdSize.BANNER_HEIGHT_50);
-//        LinearLayout adContainer = (LinearLayout) findViewById(R.id.banner_container6);
-//
-//        // Add the ad view to your activity layout
-//        adContainer.addView(adView);
-//
-//        // Request an ad
-//        adView.loadAd();
+        adView = new AdView(this, "350189448938955_363782384246328", AdSize.BANNER_HEIGHT_50);
+        LinearLayout adContainer = (LinearLayout) findViewById(R.id.banner_container6);
+
+        // Add the ad view to your activity layout
+        adContainer.addView(adView);
+
+        // Request an ad
+        adView.loadAd();
         SharedPreferences sa3 = getSharedPreferences(save_login1, MODE_PRIVATE);
         ads_time_int=sa3.getInt(phone_no1,0);
         save=0;
         if (ads_time_int<1001){
-//            showads();
+            showads();
         }else {
             milis=milis-(sa3.getInt(phone_no1,0));
             time2();
         }
-        UnityAds.initialize(this,game_id,testMode);
-
-        IUnityBannerListener bannerListner=new IUnityBannerListener() {
-            @Override
-            public void onUnityBannerLoaded(String s, View view) {
-                ((ViewGroup)findViewById(R.id.banner_container6)).removeView(view);
-                ((ViewGroup)findViewById(R.id.banner_container6)).addView(view);
-            }
-
-            @Override
-            public void onUnityBannerUnloaded(String s) {
-
-            }
-
-            @Override
-            public void onUnityBannerShow(String s) {
-
-            }
-
-            @Override
-            public void onUnityBannerClick(String s) {
-
-            }
-
-            @Override
-            public void onUnityBannerHide(String s) {
-
-            }
-
-            @Override
-            public void onUnityBannerError(String s) {
-
-            }
-        };
-
-        UnityBanners.setBannerListener(bannerListner);
-        UnityBanners.loadBanner(this,bannerPlasement);
-
-        IUnityAdsListener interListner= new IUnityAdsListener() {
-            @Override
-            public void onUnityAdsReady(String s) {
-
-            }
-
-            @Override
-            public void onUnityAdsStart(String s) {
-
-            }
-
-            @Override
-            public void onUnityAdsFinish(String s, UnityAds.FinishState finishState) {
-
-            }
-
-            @Override
-            public void onUnityAdsError(UnityAds.UnityAdsError unityAdsError, String s) {
-
-            }
-        };
-        UnityAds.setListener(interListner);
-        UnityAds.load(intastialPlasement);
-
-        rewardedAds();
-
-//        IUnityAdsListener rewardedListner= new IUnityAdsListener() {
-//            @Override
-//            public void onUnityAdsReady(String s) {
-//
-//            }
-//
-//            @Override
-//            public void onUnityAdsStart(String s) {
-//
-//            }
-//
-//            @Override
-//            public void onUnityAdsFinish (String adUnitId, UnityAds.FinishState finishState) {
-//                // Implement conditional logic for each ad completion status:
-//                if (finishState.equals(UnityAds.FinishState.COMPLETED)) {
-//                    // Reward the user for watching the ad to completion.
-//                    Toast.makeText(MainActivity.this, "Completed", Toast.LENGTH_SHORT).show();
-//                    d1=1;
-//                    time2();
-//                    save=1;
-//                    Toast.makeText(MainActivity.this, "show", Toast.LENGTH_LONG).show();
-//                } else if (finishState == UnityAds.FinishState.SKIPPED) {
-//                    // Do not reward the user for skipping the ad.
-//                } else if (finishState == UnityAds.FinishState.ERROR) {
-//                    // Log an error.
-//                }
-//            }
-//
-//
-//            @Override
-//            public void onUnityAdsError(UnityAds.UnityAdsError unityAdsError, String s) {
-//
-//            }
-//        };
-
-        if (UnityAds.isReady(rewardPlasement)){
-            UnityAds.show(MainActivity.this,rewardPlasement);
-        }
-        show_ads.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-//                if (UnityAds.isReady(intastialPlasement)){
-//                    UnityAds.show(MainActivity.this,intastialPlasement);
-//                }
-//                if (UnityAds.isReady(rewardPlasement)){
-//                    UnityAds.show(MainActivity.this,rewardPlasement);
-//
-//                }
-                UnityAds.setListener(interListner);
-                UnityAds.load(intastialPlasement);
-
-            }
-        });
 
         active_answer=getResources().getStringArray(R.array.active_assertive_passive);
         active_structure=getResources().getStringArray(R.array.active_assertive);
@@ -833,45 +703,6 @@ public class MainActivity extends AppCompatActivity {
             }
         });
     }
-    public void rewardedAds(){
-        IUnityAdsListener rewardedListner= new IUnityAdsListener() {
-            @Override
-            public void onUnityAdsReady(String s) {
-
-            }
-
-            @Override
-            public void onUnityAdsStart(String s) {
-
-            }
-
-            @Override
-            public void onUnityAdsFinish (String adUnitId, UnityAds.FinishState finishState) {
-                // Implement conditional logic for each ad completion status:
-                if (finishState.equals(UnityAds.FinishState.COMPLETED)) {
-                    // Reward the user for watching the ad to completion.
-                    Toast.makeText(MainActivity.this, "Completed", Toast.LENGTH_SHORT).show();
-                    d1=1;
-                    time2();
-                    save=1;
-                    Toast.makeText(MainActivity.this, "show", Toast.LENGTH_LONG).show();
-                } else if (finishState == UnityAds.FinishState.SKIPPED) {
-                    // Do not reward the user for skipping the ad.
-                } else if (finishState == UnityAds.FinishState.ERROR) {
-                    // Log an error.
-                }
-            }
-
-
-            @Override
-            public void onUnityAdsError(UnityAds.UnityAdsError unityAdsError, String s) {
-
-            }
-        };
-        UnityAds.setListener(rewardedListner);
-        UnityAds.load(rewardPlasement);
-
-    }
     public void song(){
         stopsong();
         if(play==null){
@@ -1236,10 +1067,7 @@ public class MainActivity extends AppCompatActivity {
                 lays2.setVisibility(View.GONE);
                 lays1.setVisibility(View.VISIBLE);
                 if (d1==0){
-                    if (UnityAds.isReady(rewardPlasement)){
-                        UnityAds.show(MainActivity.this,rewardPlasement);
-                    }
-//                    showads();
+                    showads();
                     //shows();
                 }
 
@@ -1602,7 +1430,7 @@ public class MainActivity extends AppCompatActivity {
                 d1=0;
                 ads_function();
                 if (save==0){
-//                    showads();
+                    showads();
                 }
 
             }
