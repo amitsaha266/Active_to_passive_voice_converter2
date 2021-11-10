@@ -105,6 +105,7 @@ public class MainActivity extends AppCompatActivity {
     private int ads_time_int=0;
     private int milis=50000;
     private int save = 0;
+    private int save1 = 0;
 
 
     private AdView adView;
